@@ -1,0 +1,801 @@
+label,text
+legitimate,"Hey, are we still meeting for lunch today at 12:30?"
+legitimate,Can you please send me the report by the end of the day? Thanks.
+legitimate,Just wanted to follow up on our discussion yesterday. Let me know when you're free.
+legitimate,I'll be home in about 20 minutes. Please make sure the oven is preheated.
+legitimate,"Hi team, here is the agenda for tomorrow's weekly sync meeting."
+legitimate,Your package has been delivered to your front porch. Have a great day!
+legitimate,Are you free for a quick call to review the design designs?
+legitimate,Thanks for the update. I'll review it and get back to you shortly.
+legitimate,"Hi Mom, just calling to say I love you and check how you are doing."
+legitimate,Can you pick up some milk and eggs on your way back from work?
+legitimate,"The weather is lovely today, we should go for a walk in the evening."
+legitimate,Your dentist appointment is confirmed for Tuesday at 10:00 AM.
+legitimate,Hey! Don't forget we have band practice tonight at 7.
+legitimate,Please find attached the receipt for your recent purchase at the grocery store.
+legitimate,"Hi, I noticed a typo on slide 5 of the presentation, can you fix it?"
+legitimate,Let's reschedule the coffee chat to Friday if that works better for you.
+legitimate,"Yes, I can help you move your couch this weekend. Just let me know the time."
+legitimate,The meeting has been moved to room 302 due to technical issues in the main hall.
+legitimate,Your subscription payment was processed successfully. Thank you for your business.
+legitimate,"Hey buddy, happy birthday! Hope you have an amazing day!"
+fraud,"Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds..."
+fraud,Subject: Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin...
+fraud,"Subject: Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number..."
+fraud,Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top
+fraud,"Subject: Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service..."
+fraud,"Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes..."
+fraud,Subject: Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card...
+fraud,Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club
+fraud,"Subject: Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify..."
+fraud,"Subject: Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000..."
+fraud,Warning: Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin...
+legitimate,"Urgent: Hey, are we still meeting for lunch today at 12:30? Click details."
+legitimate,"Hello, Your subscription payment was processed successfully. Thank you for your business."
+legitimate,"Dear, Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Visit now."
+legitimate,Hi! The meeting has been moved to room 302 due to technical issues in the main hall.
+legitimate,Hi! Please find attached the receipt for your recent purchase at the grocery store. Thank you.
+legitimate,Can you pick up some milk and eggs on your way back from work? Click details.
+legitimate,"Hey, I'll be home in about 20 minutes. Please make sure the oven is preheated. Reply ASAP."
+fraud,"Urgent: Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Thank you."
+legitimate,"Urgent: Yes, I can help you move your couch this weekend. Just let me know the time. Thank you."
+fraud,Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Thank you.
+fraud,"Warning: Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes... Code: 8561"
+legitimate,"Dear, The meeting has been moved to room 302 due to technical issues in the main hall. Reply ASAP."
+fraud,"Dear, Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Visit now."
+fraud,"Urgent: Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Code: 2152"
+fraud,"Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Reply ASAP."
+legitimate,"Hello, Your subscription payment was processed successfully. Thank you for your business."
+fraud,"Urgent: Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Code: 5183"
+legitimate,Urgent: Just wanted to follow up on our discussion yesterday. Let me know when you're free. Visit now.
+fraud,"Hello, Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Click details."
+legitimate,"Hello, The meeting has been moved to room 302 due to technical issues in the main hall. Click details."
+legitimate,Are you free for a quick call to review the design designs?
+legitimate,Hey! Don't forget we have band practice tonight at 7. Reply ASAP.
+legitimate,Hi! Hey! Don't forget we have band practice tonight at 7. Click details.
+fraud,"Urgent: Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Code: 2190"
+fraud,"Dear, Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Reply ASAP."
+fraud,Urgent: Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Code: 6287
+legitimate,Warning: Are you free for a quick call to review the design designs? Click details.
+fraud,"Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes... Thank you."
+fraud,Hi! Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club
+fraud,"Dear, Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Reply ASAP."
+fraud,"Hello, Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Thank you."
+legitimate,Warning: Let's reschedule the coffee chat to Friday if that works better for you. Thank you.
+legitimate,"Dear, Please find attached the receipt for your recent purchase at the grocery store. Code: 8443"
+legitimate,"Hello, The meeting has been moved to room 302 due to technical issues in the main hall. Visit now."
+fraud,"Hello, Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes... Visit now."
+legitimate,"Dear, Let's reschedule the coffee chat to Friday if that works better for you. Click details."
+fraud,"Dear, Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number..."
+fraud,"Warning: Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify..."
+legitimate,"Urgent: Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Reply ASAP."
+fraud,"Dear, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Thank you."
+fraud,"Hi! Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Reply ASAP."
+legitimate,"Dear, Hi Mom, just calling to say I love you and check how you are doing. Thank you."
+fraud,Hi! Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Reply ASAP.
+legitimate,"Hello, Hi team, here is the agenda for tomorrow's weekly sync meeting."
+legitimate,The meeting has been moved to room 302 due to technical issues in the main hall. Reply ASAP.
+legitimate,Urgent: Are you free for a quick call to review the design designs?
+legitimate,"Hello, Let's reschedule the coffee chat to Friday if that works better for you. Reply ASAP."
+legitimate,"Dear, Thanks for the update. I'll review it and get back to you shortly. Reply ASAP."
+fraud,"Hey, Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Click details."
+legitimate,"Hey, Please find attached the receipt for your recent purchase at the grocery store. Thank you."
+legitimate,"Yes, I can help you move your couch this weekend. Just let me know the time. Code: 3031"
+legitimate,Warning: Can you pick up some milk and eggs on your way back from work?
+legitimate,"Hi Mom, just calling to say I love you and check how you are doing. Thank you."
+fraud,"Hello, Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Code: 6261"
+fraud,"Warning: Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number..."
+fraud,"Hi! Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Visit now."
+fraud,"Hello, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Visit now."
+fraud,Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Visit now.
+legitimate,I'll be home in about 20 minutes. Please make sure the oven is preheated. Click details.
+legitimate,Hi! Are you free for a quick call to review the design designs? Visit now.
+legitimate,Warning: I'll be home in about 20 minutes. Please make sure the oven is preheated. Reply ASAP.
+fraud,"Dear, Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Code: 2930"
+legitimate,Urgent: Just wanted to follow up on our discussion yesterday. Let me know when you're free.
+fraud,Urgent: Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Click details.
+fraud,"Warning: Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes..."
+fraud,"Urgent: Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Thank you."
+legitimate,"Hey, Can you please send me the report by the end of the day? Thanks. Thank you."
+legitimate,"Dear, Hey buddy, happy birthday! Hope you have an amazing day!"
+legitimate,"Hey, Hey! Don't forget we have band practice tonight at 7. Code: 9892"
+legitimate,"Hey, Please find attached the receipt for your recent purchase at the grocery store."
+fraud,"Hello, Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes... Visit now."
+fraud,"Warning: Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Reply ASAP."
+legitimate,"Dear, Hey buddy, happy birthday! Hope you have an amazing day! Reply ASAP."
+legitimate,"Dear, Yes, I can help you move your couch this weekend. Just let me know the time. Click details."
+fraud,"Dear, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Code: 3668"
+legitimate,"Hello, Your dentist appointment is confirmed for Tuesday at 10:00 AM. Reply ASAP."
+legitimate,"Hey, Your subscription payment was processed successfully. Thank you for your business. Visit now."
+legitimate,Warning: I'll be home in about 20 minutes. Please make sure the oven is preheated.
+legitimate,Hi! Are you free for a quick call to review the design designs? Visit now.
+fraud,Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Thank you.
+fraud,"Dear, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Click details."
+legitimate,Warning: Your package has been delivered to your front porch. Have a great day!
+legitimate,"Hello, Hi team, here is the agenda for tomorrow's weekly sync meeting."
+fraud,Hi! Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Click details.
+fraud,"Dear, Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Code: 2367"
+legitimate,"Hi! Hi team, here is the agenda for tomorrow's weekly sync meeting. Reply ASAP."
+legitimate,Hi! Your subscription payment was processed successfully. Thank you for your business. Reply ASAP.
+legitimate,"Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Thank you."
+fraud,"Warning: Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Reply ASAP."
+fraud,"Urgent: Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Thank you."
+legitimate,"Dear, Yes, I can help you move your couch this weekend. Just let me know the time. Code: 5511"
+legitimate,"Warning: Hi Mom, just calling to say I love you and check how you are doing. Reply ASAP."
+legitimate,"Hi! Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Thank you."
+fraud,"Dear, Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club"
+fraud,"Hey, Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes..."
+fraud,"Dear, Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000..."
+fraud,Urgent: Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Visit now.
+fraud,"Dear, Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes... Code: 1693"
+fraud,"Urgent: Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000..."
+fraud,"Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Visit now."
+fraud,"Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Visit now."
+fraud,"Warning: Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Visit now."
+legitimate,Warning: Hey! Don't forget we have band practice tonight at 7. Code: 1770
+fraud,"Dear, Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Thank you."
+fraud,"Dear, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Thank you."
+legitimate,Warning: Let's reschedule the coffee chat to Friday if that works better for you. Code: 8483
+legitimate,Hi! Are you free for a quick call to review the design designs? Code: 1669
+fraud,"Hello, Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Reply ASAP."
+fraud,"Hello, Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card..."
+legitimate,Your dentist appointment is confirmed for Tuesday at 10:00 AM. Click details.
+legitimate,Warning: Can you pick up some milk and eggs on your way back from work? Visit now.
+fraud,Urgent: Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top
+legitimate,"Dear, Can you please send me the report by the end of the day? Thanks. Click details."
+legitimate,Warning: Can you please send me the report by the end of the day? Thanks. Visit now.
+fraud,Hi! Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Reply ASAP.
+fraud,"Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Visit now."
+legitimate,"Dear, Hi Mom, just calling to say I love you and check how you are doing. Click details."
+legitimate,"Warning: Hey buddy, happy birthday! Hope you have an amazing day! Visit now."
+legitimate,"Urgent: Hey buddy, happy birthday! Hope you have an amazing day! Click details."
+fraud,"Hello, Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Visit now."
+legitimate,Hi! Can you pick up some milk and eggs on your way back from work? Visit now.
+fraud,"Urgent: Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Reply ASAP."
+legitimate,"Hello, Let's reschedule the coffee chat to Friday if that works better for you. Visit now."
+legitimate,Warning: The meeting has been moved to room 302 due to technical issues in the main hall.
+fraud,Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Reply ASAP.
+fraud,"Hi! Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes... Code: 6061"
+fraud,"Dear, Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes... Thank you."
+legitimate,"Warning: Hi Mom, just calling to say I love you and check how you are doing. Click details."
+fraud,"Hi! Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Click details."
+fraud,"Urgent: Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Reply ASAP."
+fraud,"Urgent: Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Reply ASAP."
+legitimate,Hi! I'll be home in about 20 minutes. Please make sure the oven is preheated. Click details.
+legitimate,"Hey, Hey buddy, happy birthday! Hope you have an amazing day! Click details."
+legitimate,"Hello, Hey, are we still meeting for lunch today at 12:30? Reply ASAP."
+legitimate,"Hello, Yes, I can help you move your couch this weekend. Just let me know the time. Click details."
+fraud,"Dear, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin..."
+fraud,"Hello, Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Thank you."
+fraud,"Hey, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Click details."
+fraud,"Hello, Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Click details."
+fraud,"Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Thank you."
+fraud,"Warning: Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number..."
+fraud,"Hello, Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Click details."
+legitimate,Hi! Hey! Don't forget we have band practice tonight at 7. Reply ASAP.
+legitimate,"Dear, Your subscription payment was processed successfully. Thank you for your business. Reply ASAP."
+legitimate,"Yes, I can help you move your couch this weekend. Just let me know the time."
+legitimate,Warning: Can you please send me the report by the end of the day? Thanks. Reply ASAP.
+legitimate,"Dear, Are you free for a quick call to review the design designs? Code: 7060"
+legitimate,Can you pick up some milk and eggs on your way back from work?
+legitimate,"Warning: Hi team, here is the agenda for tomorrow's weekly sync meeting. Visit now."
+fraud,"Warning: Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Click details."
+fraud,"Dear, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Code: 4271"
+fraud,"Urgent: Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes... Visit now."
+fraud,Hi! Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Code: 8156
+legitimate,"Dear, Can you pick up some milk and eggs on your way back from work?"
+legitimate,"Dear, Your subscription payment was processed successfully. Thank you for your business. Click details."
+legitimate,"Hey, The meeting has been moved to room 302 due to technical issues in the main hall. Thank you."
+legitimate,"Hey, The meeting has been moved to room 302 due to technical issues in the main hall."
+legitimate,Warning: Thanks for the update. I'll review it and get back to you shortly. Thank you.
+legitimate,Urgent: Are you free for a quick call to review the design designs? Thank you.
+legitimate,"Dear, Just wanted to follow up on our discussion yesterday. Let me know when you're free. Visit now."
+legitimate,"Hi! Hey buddy, happy birthday! Hope you have an amazing day! Reply ASAP."
+fraud,"Hey, Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Code: 1476"
+legitimate,"Hey, Hey, are we still meeting for lunch today at 12:30?"
+fraud,Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Visit now.
+fraud,"Urgent: Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Reply ASAP."
+fraud,"Hello, Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Code: 5010"
+fraud,"Warning: Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify..."
+fraud,"Dear, Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Visit now."
+legitimate,Urgent: Let's reschedule the coffee chat to Friday if that works better for you. Reply ASAP.
+fraud,"Hello, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Thank you."
+fraud,"Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Code: 3018"
+legitimate,Hey! Don't forget we have band practice tonight at 7. Code: 4326
+legitimate,"Warning: Hi Mom, just calling to say I love you and check how you are doing. Thank you."
+legitimate,Hi! Can you please send me the report by the end of the day? Thanks.
+fraud,"Dear, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Visit now."
+fraud,"Hello, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Thank you."
+legitimate,"Hello, Are you free for a quick call to review the design designs? Thank you."
+legitimate,"Hey, The meeting has been moved to room 302 due to technical issues in the main hall. Code: 7076"
+fraud,"Urgent: Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Click details."
+legitimate,Urgent: I'll be home in about 20 minutes. Please make sure the oven is preheated. Reply ASAP.
+legitimate,"Hello, Are you free for a quick call to review the design designs? Reply ASAP."
+legitimate,Warning: I'll be home in about 20 minutes. Please make sure the oven is preheated.
+legitimate,"Hello, Hi team, here is the agenda for tomorrow's weekly sync meeting. Thank you."
+fraud,"Urgent: Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Reply ASAP."
+fraud,"Hello, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Click details."
+legitimate,Urgent: Your subscription payment was processed successfully. Thank you for your business.
+legitimate,"Hi Mom, just calling to say I love you and check how you are doing. Reply ASAP."
+fraud,"Warning: Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service..."
+legitimate,Urgent: I'll be home in about 20 minutes. Please make sure the oven is preheated. Visit now.
+legitimate,"Dear, Hey buddy, happy birthday! Hope you have an amazing day!"
+legitimate,"Hi team, here is the agenda for tomorrow's weekly sync meeting. Visit now."
+legitimate,"Warning: Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Visit now."
+fraud,Hi! Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Code: 5267
+legitimate,Hi! I'll be home in about 20 minutes. Please make sure the oven is preheated.
+fraud,"Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Reply ASAP."
+legitimate,Urgent: Can you pick up some milk and eggs on your way back from work? Visit now.
+legitimate,"Hi! Hi, I noticed a typo on slide 5 of the presentation, can you fix it?"
+fraud,"Dear, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Click details."
+legitimate,Please find attached the receipt for your recent purchase at the grocery store. Reply ASAP.
+legitimate,"Dear, Hey buddy, happy birthday! Hope you have an amazing day!"
+fraud,"Dear, Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Thank you."
+fraud,"Urgent: Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Thank you."
+fraud,Hi! Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Reply ASAP.
+legitimate,Urgent: The meeting has been moved to room 302 due to technical issues in the main hall. Reply ASAP.
+fraud,"Hey, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Thank you."
+legitimate,"Hey, The meeting has been moved to room 302 due to technical issues in the main hall. Code: 5741"
+fraud,Urgent: Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top
+legitimate,"Dear, Hey, are we still meeting for lunch today at 12:30? Visit now."
+fraud,"Hey, Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes... Thank you."
+legitimate,Are you free for a quick call to review the design designs? Code: 6436
+legitimate,Warning: Are you free for a quick call to review the design designs? Thank you.
+legitimate,Hi! Can you pick up some milk and eggs on your way back from work? Visit now.
+fraud,"Hello, Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Thank you."
+legitimate,"Dear, I'll be home in about 20 minutes. Please make sure the oven is preheated. Code: 9563"
+legitimate,"Hi! Hi Mom, just calling to say I love you and check how you are doing."
+legitimate,Hi! Your package has been delivered to your front porch. Have a great day! Click details.
+legitimate,"Dear, Your subscription payment was processed successfully. Thank you for your business. Click details."
+fraud,"Warning: Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Code: 3967"
+fraud,"Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Reply ASAP."
+legitimate,Hi! Your package has been delivered to your front porch. Have a great day! Reply ASAP.
+fraud,"Dear, Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Visit now."
+fraud,"Dear, Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Reply ASAP."
+legitimate,"Dear, Can you please send me the report by the end of the day? Thanks. Reply ASAP."
+fraud,"Hello, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Code: 7278"
+legitimate,"Hi! Hi team, here is the agenda for tomorrow's weekly sync meeting. Thank you."
+legitimate,Are you free for a quick call to review the design designs? Visit now.
+legitimate,Urgent: Your package has been delivered to your front porch. Have a great day! Visit now.
+fraud,Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card...
+legitimate,"Hello, Are you free for a quick call to review the design designs? Reply ASAP."
+legitimate,Are you free for a quick call to review the design designs? Reply ASAP.
+fraud,"Urgent: Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Thank you."
+legitimate,Hi! Just wanted to follow up on our discussion yesterday. Let me know when you're free. Click details.
+fraud,"Dear, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service..."
+legitimate,"Hello, Your subscription payment was processed successfully. Thank you for your business. Thank you."
+fraud,Hi! Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Reply ASAP.
+legitimate,"Dear, The weather is lovely today, we should go for a walk in the evening."
+fraud,"Dear, Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Reply ASAP."
+fraud,"Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Code: 7795"
+fraud,"Urgent: Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Reply ASAP."
+fraud,Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Code: 3362
+legitimate,"Hi! Hi team, here is the agenda for tomorrow's weekly sync meeting. Code: 1978"
+legitimate,"Dear, Please find attached the receipt for your recent purchase at the grocery store. Code: 3361"
+fraud,Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Reply ASAP.
+fraud,Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Thank you.
+fraud,Urgent: Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Reply ASAP.
+fraud,"Dear, Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Thank you."
+fraud,Urgent: Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Code: 9539
+legitimate,Hi! Can you please send me the report by the end of the day? Thanks. Visit now.
+fraud,Urgent: Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Thank you.
+fraud,"Urgent: Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Click details."
+fraud,"Hi! Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service..."
+legitimate,"Hey, Hey, are we still meeting for lunch today at 12:30? Visit now."
+fraud,"Urgent: Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number..."
+fraud,"Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Thank you."
+legitimate,"Hey, Hi Mom, just calling to say I love you and check how you are doing. Code: 4783"
+fraud,"Dear, Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Click details."
+legitimate,Hi! Are you free for a quick call to review the design designs? Visit now.
+legitimate,"Hey, Your dentist appointment is confirmed for Tuesday at 10:00 AM. Visit now."
+fraud,"Dear, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin..."
+legitimate,"Hey, Hi team, here is the agenda for tomorrow's weekly sync meeting. Code: 1567"
+fraud,"Urgent: Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes..."
+fraud,"Dear, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Thank you."
+legitimate,"Hi, I noticed a typo on slide 5 of the presentation, can you fix it?"
+legitimate,"Yes, I can help you move your couch this weekend. Just let me know the time. Thank you."
+fraud,"Warning: Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Click details."
+legitimate,"Hey, Hey buddy, happy birthday! Hope you have an amazing day! Visit now."
+legitimate,"Dear, Your dentist appointment is confirmed for Tuesday at 10:00 AM. Code: 1127"
+legitimate,"Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Click details."
+legitimate,"Dear, Hey, are we still meeting for lunch today at 12:30? Visit now."
+legitimate,"Dear, Just wanted to follow up on our discussion yesterday. Let me know when you're free. Code: 9547"
+legitimate,Hi! Let's reschedule the coffee chat to Friday if that works better for you. Code: 4208
+legitimate,"Hello, I'll be home in about 20 minutes. Please make sure the oven is preheated. Reply ASAP."
+legitimate,Thanks for the update. I'll review it and get back to you shortly. Reply ASAP.
+legitimate,Let's reschedule the coffee chat to Friday if that works better for you. Reply ASAP.
+fraud,"Dear, Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes... Thank you."
+legitimate,Urgent: Your package has been delivered to your front porch. Have a great day!
+fraud,"Hey, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Reply ASAP."
+legitimate,"Hello, Hey buddy, happy birthday! Hope you have an amazing day! Click details."
+fraud,"Hello, Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Reply ASAP."
+legitimate,Hi! Can you please send me the report by the end of the day? Thanks.
+legitimate,"Urgent: Hey, are we still meeting for lunch today at 12:30? Code: 9360"
+legitimate,"Hey, Let's reschedule the coffee chat to Friday if that works better for you. Click details."
+fraud,"Dear, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Click details."
+legitimate,Hi! Can you pick up some milk and eggs on your way back from work?
+fraud,"Warning: Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Reply ASAP."
+legitimate,"Hi! Hi Mom, just calling to say I love you and check how you are doing. Click details."
+fraud,"Warning: Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Code: 2416"
+legitimate,"Dear, I'll be home in about 20 minutes. Please make sure the oven is preheated."
+legitimate,"Hello, Thanks for the update. I'll review it and get back to you shortly. Code: 7889"
+fraud,Hi! Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Reply ASAP.
+fraud,Urgent: Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Reply ASAP.
+fraud,"Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service..."
+fraud,"Hi! Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Code: 2923"
+fraud,"Hello, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Thank you."
+legitimate,"Hey, Hey buddy, happy birthday! Hope you have an amazing day! Code: 3507"
+legitimate,"Hey, The meeting has been moved to room 302 due to technical issues in the main hall. Code: 1192"
+legitimate,"Hi! Hey, are we still meeting for lunch today at 12:30? Click details."
+legitimate,"Dear, Hi Mom, just calling to say I love you and check how you are doing. Reply ASAP."
+fraud,"Dear, Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Visit now."
+legitimate,"Warning: Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Thank you."
+legitimate,"Hey, Just wanted to follow up on our discussion yesterday. Let me know when you're free. Click details."
+fraud,"Hello, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Click details."
+fraud,Warning: Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Code: 6132
+legitimate,Warning: The meeting has been moved to room 302 due to technical issues in the main hall. Code: 5852
+legitimate,"Hi! The weather is lovely today, we should go for a walk in the evening. Visit now."
+legitimate,"Hello, Yes, I can help you move your couch this weekend. Just let me know the time. Code: 6655"
+legitimate,"Hello, Hey, are we still meeting for lunch today at 12:30? Visit now."
+fraud,"Hey, Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Click details."
+legitimate,"Hey, Thanks for the update. I'll review it and get back to you shortly. Code: 2991"
+legitimate,"Dear, Thanks for the update. I'll review it and get back to you shortly. Reply ASAP."
+fraud,"Hi! Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Visit now."
+fraud,"Hi! Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Click details."
+legitimate,Warning: Please find attached the receipt for your recent purchase at the grocery store. Click details.
+fraud,"Hello, Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000..."
+fraud,"Dear, Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Click details."
+legitimate,"Dear, Are you free for a quick call to review the design designs? Visit now."
+legitimate,Are you free for a quick call to review the design designs?
+legitimate,Urgent: The meeting has been moved to room 302 due to technical issues in the main hall. Code: 9591
+fraud,"Dear, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Reply ASAP."
+legitimate,"Warning: Hi team, here is the agenda for tomorrow's weekly sync meeting. Click details."
+legitimate,Warning: Please find attached the receipt for your recent purchase at the grocery store. Code: 8123
+legitimate,Hi! Your subscription payment was processed successfully. Thank you for your business. Click details.
+fraud,"Warning: Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Thank you."
+legitimate,"Hello, Your subscription payment was processed successfully. Thank you for your business. Thank you."
+legitimate,"Hi team, here is the agenda for tomorrow's weekly sync meeting. Visit now."
+legitimate,Urgent: The meeting has been moved to room 302 due to technical issues in the main hall. Reply ASAP.
+legitimate,Hi! Thanks for the update. I'll review it and get back to you shortly. Thank you.
+fraud,"Hello, Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Click details."
+legitimate,"Hello, Hey! Don't forget we have band practice tonight at 7."
+legitimate,Hi! Can you pick up some milk and eggs on your way back from work? Code: 9889
+legitimate,"Hello, Please find attached the receipt for your recent purchase at the grocery store. Click details."
+fraud,"Hey, Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Click details."
+legitimate,Hi! Hey! Don't forget we have band practice tonight at 7. Visit now.
+legitimate,Hi! The meeting has been moved to room 302 due to technical issues in the main hall. Click details.
+legitimate,"Hello, Hi Mom, just calling to say I love you and check how you are doing. Visit now."
+legitimate,"Hi Mom, just calling to say I love you and check how you are doing. Code: 6176"
+legitimate,Hi! Your package has been delivered to your front porch. Have a great day!
+legitimate,Warning: Hey! Don't forget we have band practice tonight at 7.
+legitimate,Please find attached the receipt for your recent purchase at the grocery store. Reply ASAP.
+legitimate,Your package has been delivered to your front porch. Have a great day! Thank you.
+legitimate,Hi! Your subscription payment was processed successfully. Thank you for your business. Code: 2986
+legitimate,Your package has been delivered to your front porch. Have a great day! Visit now.
+fraud,"Hey, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service..."
+fraud,Urgent: Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Reply ASAP.
+fraud,"Hi! Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Reply ASAP."
+fraud,"Hey, Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Click details."
+fraud,"Hey, Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes... Visit now."
+legitimate,Let's reschedule the coffee chat to Friday if that works better for you.
+fraud,"Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes... Click details."
+legitimate,"Hey, Hey! Don't forget we have band practice tonight at 7. Visit now."
+fraud,"Urgent: Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Click details."
+fraud,Hi! Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Click details.
+fraud,"Hi! Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify..."
+fraud,"Hello, Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Code: 2261"
+fraud,"Warning: Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Thank you."
+fraud,"Warning: Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Thank you."
+legitimate,"Hi! Hi Mom, just calling to say I love you and check how you are doing. Code: 2158"
+legitimate,"Dear, Your package has been delivered to your front porch. Have a great day! Code: 8276"
+legitimate,Hi! Thanks for the update. I'll review it and get back to you shortly. Click details.
+legitimate,Hi! Your dentist appointment is confirmed for Tuesday at 10:00 AM. Visit now.
+fraud,"Warning: Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Click details."
+legitimate,"Dear, Hey buddy, happy birthday! Hope you have an amazing day! Reply ASAP."
+fraud,"Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Visit now."
+fraud,"Hello, Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top"
+fraud,"Hello, Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Visit now."
+legitimate,"Hey, Hi team, here is the agenda for tomorrow's weekly sync meeting."
+fraud,"Dear, Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Code: 7773"
+legitimate,Are you free for a quick call to review the design designs? Click details.
+legitimate,"Hello, I'll be home in about 20 minutes. Please make sure the oven is preheated. Visit now."
+fraud,"Warning: Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Code: 9703"
+fraud,"Hello, Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Code: 6614"
+fraud,"Hey, Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Thank you."
+legitimate,"Hello, Thanks for the update. I'll review it and get back to you shortly. Reply ASAP."
+legitimate,Urgent: Your subscription payment was processed successfully. Thank you for your business. Thank you.
+legitimate,"Hey, Let's reschedule the coffee chat to Friday if that works better for you. Visit now."
+legitimate,"Hello, Hey! Don't forget we have band practice tonight at 7. Thank you."
+fraud,Warning: Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Thank you.
+fraud,"Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes..."
+legitimate,"Hey, Your subscription payment was processed successfully. Thank you for your business."
+fraud,"Hello, Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Reply ASAP."
+legitimate,Can you pick up some milk and eggs on your way back from work? Reply ASAP.
+legitimate,"Hello, Yes, I can help you move your couch this weekend. Just let me know the time. Visit now."
+legitimate,Warning: Let's reschedule the coffee chat to Friday if that works better for you.
+fraud,"Urgent: Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Code: 8241"
+fraud,"Hey, Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Click details."
+legitimate,"Hello, Please find attached the receipt for your recent purchase at the grocery store. Reply ASAP."
+legitimate,"Hello, Can you pick up some milk and eggs on your way back from work? Click details."
+fraud,"Dear, Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Visit now."
+fraud,"Dear, Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Click details."
+legitimate,"Hello, Yes, I can help you move your couch this weekend. Just let me know the time."
+fraud,"Hi! Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Click details."
+fraud,Hi! Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top
+fraud,"Urgent: Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Visit now."
+legitimate,"Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Thank you."
+legitimate,Warning: I'll be home in about 20 minutes. Please make sure the oven is preheated. Visit now.
+legitimate,"Dear, Your dentist appointment is confirmed for Tuesday at 10:00 AM. Thank you."
+fraud,"Warning: Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Thank you."
+legitimate,Just wanted to follow up on our discussion yesterday. Let me know when you're free. Click details.
+fraud,"Dear, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Code: 6463"
+fraud,"Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Thank you."
+legitimate,Hi! Can you pick up some milk and eggs on your way back from work? Visit now.
+legitimate,"Hey, Your dentist appointment is confirmed for Tuesday at 10:00 AM. Thank you."
+fraud,Hi! Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Thank you.
+fraud,Warning: Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Code: 1482
+fraud,Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Thank you.
+legitimate,"Hello, Hey buddy, happy birthday! Hope you have an amazing day! Click details."
+legitimate,"Dear, Hey buddy, happy birthday! Hope you have an amazing day! Click details."
+fraud,"Dear, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Code: 7967"
+legitimate,Urgent: Can you please send me the report by the end of the day? Thanks.
+fraud,Urgent: Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Reply ASAP.
+fraud,Hi! Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Click details.
+fraud,"Hi! Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Reply ASAP."
+legitimate,"Hey, I'll be home in about 20 minutes. Please make sure the oven is preheated. Code: 8363"
+fraud,"Urgent: Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Visit now."
+legitimate,Urgent: The meeting has been moved to room 302 due to technical issues in the main hall. Code: 4920
+fraud,"Hi! Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Code: 7480"
+legitimate,Hi! Let's reschedule the coffee chat to Friday if that works better for you. Code: 3539
+legitimate,"Yes, I can help you move your couch this weekend. Just let me know the time."
+legitimate,Warning: Can you please send me the report by the end of the day? Thanks. Code: 5629
+legitimate,"Hello, Please find attached the receipt for your recent purchase at the grocery store. Visit now."
+legitimate,Hi! I'll be home in about 20 minutes. Please make sure the oven is preheated. Reply ASAP.
+fraud,Urgent: Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Visit now.
+legitimate,Urgent: Are you free for a quick call to review the design designs? Click details.
+legitimate,"Hello, The meeting has been moved to room 302 due to technical issues in the main hall. Code: 1561"
+legitimate,Your subscription payment was processed successfully. Thank you for your business.
+legitimate,Warning: Your package has been delivered to your front porch. Have a great day! Reply ASAP.
+legitimate,"Hello, Hi team, here is the agenda for tomorrow's weekly sync meeting. Click details."
+legitimate,Warning: The meeting has been moved to room 302 due to technical issues in the main hall. Reply ASAP.
+fraud,Urgent: Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Click details.
+legitimate,"Hello, The meeting has been moved to room 302 due to technical issues in the main hall. Visit now."
+legitimate,Your package has been delivered to your front porch. Have a great day! Reply ASAP.
+fraud,"Hey, Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Thank you."
+legitimate,Warning: The meeting has been moved to room 302 due to technical issues in the main hall.
+legitimate,"Hey, Hi Mom, just calling to say I love you and check how you are doing. Visit now."
+fraud,"Hey, Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card..."
+fraud,Urgent: Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card...
+fraud,"Warning: Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Reply ASAP."
+legitimate,Warning: Let's reschedule the coffee chat to Friday if that works better for you.
+fraud,"Hello, Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Thank you."
+fraud,"Hello, Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Code: 2931"
+legitimate,"Warning: Hi Mom, just calling to say I love you and check how you are doing. Click details."
+fraud,Warning: Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Code: 9123
+fraud,Hi! Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Visit now.
+legitimate,"Hello, Hi Mom, just calling to say I love you and check how you are doing. Visit now."
+fraud,"Warning: Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify..."
+legitimate,"Dear, Just wanted to follow up on our discussion yesterday. Let me know when you're free. Reply ASAP."
+legitimate,"Warning: Hi, I noticed a typo on slide 5 of the presentation, can you fix it?"
+fraud,"Hey, Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Visit now."
+legitimate,"Hey, Your package has been delivered to your front porch. Have a great day! Reply ASAP."
+legitimate,"Dear, Can you please send me the report by the end of the day? Thanks. Thank you."
+fraud,"Hey, Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Click details."
+fraud,"Hey, Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Visit now."
+legitimate,"Hey, Can you pick up some milk and eggs on your way back from work?"
+legitimate,"Dear, Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Click details."
+legitimate,"Hi! Hi Mom, just calling to say I love you and check how you are doing. Click details."
+fraud,"Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes..."
+fraud,"Hey, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Click details."
+legitimate,"Dear, Thanks for the update. I'll review it and get back to you shortly. Thank you."
+fraud,"Hey, Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Code: 2307"
+fraud,"Hey, Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Code: 1178"
+fraud,"Hello, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Visit now."
+fraud,"Hey, Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Thank you."
+legitimate,Are you free for a quick call to review the design designs?
+legitimate,"Warning: The weather is lovely today, we should go for a walk in the evening."
+legitimate,Can you please send me the report by the end of the day? Thanks. Thank you.
+legitimate,"Urgent: Yes, I can help you move your couch this weekend. Just let me know the time."
+fraud,"Hey, Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Click details."
+fraud,"Hello, Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club"
+fraud,"Hello, Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes... Thank you."
+legitimate,"Hey, Hi Mom, just calling to say I love you and check how you are doing."
+legitimate,"Hello, Hi Mom, just calling to say I love you and check how you are doing. Reply ASAP."
+fraud,"Hey, Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Code: 7387"
+legitimate,"Hey, Your dentist appointment is confirmed for Tuesday at 10:00 AM. Visit now."
+fraud,"Hi! Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify..."
+fraud,"Dear, Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Visit now."
+legitimate,"Hi! Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Thank you."
+fraud,Warning: Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card...
+fraud,Hi! Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club
+fraud,"Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Code: 2299"
+fraud,"Hello, Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Visit now."
+fraud,"Hey, Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Code: 7131"
+fraud,"Hi! Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Reply ASAP."
+legitimate,Urgent: Your subscription payment was processed successfully. Thank you for your business. Reply ASAP.
+legitimate,"Hey, I'll be home in about 20 minutes. Please make sure the oven is preheated. Thank you."
+legitimate,"Warning: Hi Mom, just calling to say I love you and check how you are doing. Code: 1151"
+legitimate,"Dear, Your package has been delivered to your front porch. Have a great day! Visit now."
+fraud,Hi! Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Visit now.
+fraud,"Dear, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Visit now."
+fraud,"Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Visit now."
+legitimate,Hey! Don't forget we have band practice tonight at 7. Thank you.
+fraud,"Hey, Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Code: 6787"
+legitimate,"Hello, The weather is lovely today, we should go for a walk in the evening. Reply ASAP."
+legitimate,"Hey, I'll be home in about 20 minutes. Please make sure the oven is preheated. Code: 1466"
+fraud,Urgent: Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Reply ASAP.
+legitimate,"Hello, The weather is lovely today, we should go for a walk in the evening. Reply ASAP."
+legitimate,"Dear, Thanks for the update. I'll review it and get back to you shortly."
+fraud,"Hey, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Thank you."
+legitimate,Warning: Are you free for a quick call to review the design designs?
+legitimate,"Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Visit now."
+legitimate,"Hello, Your package has been delivered to your front porch. Have a great day! Reply ASAP."
+fraud,"Hi! Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000..."
+fraud,"Hello, Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Reply ASAP."
+legitimate,Just wanted to follow up on our discussion yesterday. Let me know when you're free. Reply ASAP.
+legitimate,Your dentist appointment is confirmed for Tuesday at 10:00 AM.
+fraud,"Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Reply ASAP."
+fraud,"Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Thank you."
+fraud,"Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Visit now."
+fraud,Warning: Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Code: 8079
+legitimate,"Hey, The meeting has been moved to room 302 due to technical issues in the main hall. Click details."
+legitimate,"Hey, Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Thank you."
+legitimate,"Hello, Your subscription payment was processed successfully. Thank you for your business. Code: 9622"
+legitimate,Hi! Can you please send me the report by the end of the day? Thanks. Code: 2734
+legitimate,"Hey, Thanks for the update. I'll review it and get back to you shortly. Reply ASAP."
+fraud,"Warning: Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Thank you."
+fraud,"Hi! Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Reply ASAP."
+legitimate,Hi! Can you pick up some milk and eggs on your way back from work? Reply ASAP.
+legitimate,"Hi! Hey buddy, happy birthday! Hope you have an amazing day! Visit now."
+fraud,"Warning: Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Reply ASAP."
+legitimate,Hi! I'll be home in about 20 minutes. Please make sure the oven is preheated. Thank you.
+legitimate,"Dear, Hey buddy, happy birthday! Hope you have an amazing day! Visit now."
+fraud,Hi! Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Thank you.
+legitimate,"Hi! Hi Mom, just calling to say I love you and check how you are doing. Click details."
+fraud,"Dear, Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes... Click details."
+legitimate,Hi! Hey! Don't forget we have band practice tonight at 7. Visit now.
+fraud,"Hey, Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes... Click details."
+legitimate,Warning: Thanks for the update. I'll review it and get back to you shortly. Visit now.
+legitimate,"Warning: Hey, are we still meeting for lunch today at 12:30? Click details."
+fraud,Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Visit now.
+fraud,Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Visit now.
+fraud,"Hey, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Thank you."
+fraud,Hi! Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Reply ASAP.
+legitimate,Warning: Are you free for a quick call to review the design designs? Reply ASAP.
+fraud,"Hi! Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service..."
+fraud,Urgent: Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Click details.
+legitimate,Are you free for a quick call to review the design designs? Visit now.
+legitimate,"Dear, Hey! Don't forget we have band practice tonight at 7. Thank you."
+legitimate,"Dear, Please find attached the receipt for your recent purchase at the grocery store. Visit now."
+fraud,"Hi! Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Click details."
+fraud,"Hello, Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Code: 3491"
+fraud,"Warning: Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Thank you."
+fraud,Hi! Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Thank you.
+fraud,"Hello, Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Reply ASAP."
+fraud,"Hi! Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Reply ASAP."
+legitimate,Urgent: Let's reschedule the coffee chat to Friday if that works better for you. Thank you.
+fraud,"Hey, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Visit now."
+legitimate,"Dear, Hi team, here is the agenda for tomorrow's weekly sync meeting."
+fraud,"Dear, Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Thank you."
+legitimate,"Hey, I'll be home in about 20 minutes. Please make sure the oven is preheated. Reply ASAP."
+fraud,"Hey, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Thank you."
+fraud,"Hello, Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds..."
+legitimate,Hi! Are you free for a quick call to review the design designs? Reply ASAP.
+legitimate,"Hey, are we still meeting for lunch today at 12:30? Thank you."
+legitimate,"Hey, Let's reschedule the coffee chat to Friday if that works better for you. Thank you."
+legitimate,Hi! Your subscription payment was processed successfully. Thank you for your business. Code: 3023
+legitimate,Hi! Can you please send me the report by the end of the day? Thanks. Click details.
+legitimate,"Hi team, here is the agenda for tomorrow's weekly sync meeting. Visit now."
+fraud,"Hello, Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds..."
+fraud,"Dear, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Reply ASAP."
+fraud,"Hi! Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds..."
+legitimate,"Hello, Can you pick up some milk and eggs on your way back from work? Code: 6909"
+legitimate,Hi! Can you please send me the report by the end of the day? Thanks. Reply ASAP.
+fraud,"Urgent: Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Reply ASAP."
+legitimate,"Hey, Just wanted to follow up on our discussion yesterday. Let me know when you're free. Thank you."
+fraud,"Hello, Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Reply ASAP."
+legitimate,"Urgent: Yes, I can help you move your couch this weekend. Just let me know the time. Visit now."
+fraud,"Hello, Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Code: 4216"
+legitimate,"Warning: Yes, I can help you move your couch this weekend. Just let me know the time. Thank you."
+fraud,Urgent: Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Thank you.
+fraud,Warning: Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Click details.
+legitimate,Urgent: Please find attached the receipt for your recent purchase at the grocery store.
+fraud,"Hey, Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Code: 8552"
+fraud,"Hey, Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Reply ASAP."
+legitimate,Urgent: Can you pick up some milk and eggs on your way back from work?
+fraud,"Warning: Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Code: 4458"
+fraud,"Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Reply ASAP."
+fraud,"Dear, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service..."
+fraud,"Hello, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Visit now."
+legitimate,Urgent: Your dentist appointment is confirmed for Tuesday at 10:00 AM. Click details.
+fraud,"Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Reply ASAP."
+fraud,"Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Visit now."
+fraud,"Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Thank you."
+fraud,"Warning: Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Code: 3516"
+legitimate,Can you please send me the report by the end of the day? Thanks. Visit now.
+fraud,Urgent: Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Visit now.
+legitimate,"Hey, Yes, I can help you move your couch this weekend. Just let me know the time. Reply ASAP."
+legitimate,"Urgent: The weather is lovely today, we should go for a walk in the evening. Click details."
+legitimate,Warning: I'll be home in about 20 minutes. Please make sure the oven is preheated. Code: 9503
+legitimate,"Hey, Your package has been delivered to your front porch. Have a great day! Click details."
+legitimate,Please find attached the receipt for your recent purchase at the grocery store. Click details.
+legitimate,"Hello, The meeting has been moved to room 302 due to technical issues in the main hall. Thank you."
+legitimate,"Hey, The meeting has been moved to room 302 due to technical issues in the main hall. Visit now."
+fraud,"Hey, Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Thank you."
+legitimate,"Hi! Hi Mom, just calling to say I love you and check how you are doing. Reply ASAP."
+fraud,"Hey, Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Code: 8903"
+legitimate,"Hi! Hi Mom, just calling to say I love you and check how you are doing. Reply ASAP."
+fraud,"Dear, Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes..."
+legitimate,"Hello, Hi Mom, just calling to say I love you and check how you are doing."
+legitimate,Urgent: Your dentist appointment is confirmed for Tuesday at 10:00 AM. Visit now.
+legitimate,"Dear, Hi team, here is the agenda for tomorrow's weekly sync meeting. Reply ASAP."
+legitimate,Your subscription payment was processed successfully. Thank you for your business. Thank you.
+legitimate,"Hello, Thanks for the update. I'll review it and get back to you shortly. Code: 9387"
+legitimate,"Hi! The weather is lovely today, we should go for a walk in the evening. Thank you."
+fraud,Warning: Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Code: 4266
+legitimate,"Hey, Yes, I can help you move your couch this weekend. Just let me know the time."
+legitimate,"Dear, Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Thank you."
+fraud,"Hey, Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Click details."
+fraud,Hi! Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Thank you.
+fraud,"Urgent: Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000..."
+legitimate,Hi! Your dentist appointment is confirmed for Tuesday at 10:00 AM.
+legitimate,"Dear, Please find attached the receipt for your recent purchase at the grocery store."
+fraud,"Hello, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Visit now."
+fraud,"Dear, Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Reply ASAP."
+legitimate,Urgent: The meeting has been moved to room 302 due to technical issues in the main hall. Reply ASAP.
+fraud,"Hey, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Thank you."
+fraud,Hi! Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Visit now.
+fraud,"Warning: Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes... Thank you."
+fraud,"Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Visit now."
+fraud,"Hi! Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Visit now."
+fraud,"Hi! Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Code: 3235"
+legitimate,The meeting has been moved to room 302 due to technical issues in the main hall. Code: 6946
+fraud,"Hey, Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number..."
+legitimate,"The weather is lovely today, we should go for a walk in the evening. Visit now."
+fraud,Urgent: Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Visit now.
+legitimate,"Dear, Let's reschedule the coffee chat to Friday if that works better for you. Reply ASAP."
+legitimate,"Hey, Hi, I noticed a typo on slide 5 of the presentation, can you fix it?"
+fraud,"Hey, Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Code: 1513"
+legitimate,"Hello, The weather is lovely today, we should go for a walk in the evening. Code: 5416"
+legitimate,Hi! I'll be home in about 20 minutes. Please make sure the oven is preheated. Click details.
+fraud,"Urgent: Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Thank you."
+fraud,"Warning: Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Code: 3296"
+fraud,"Dear, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Reply ASAP."
+fraud,"Dear, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service..."
+fraud,Urgent: Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Visit now.
+fraud,"Hello, Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Thank you."
+legitimate,"Dear, Hey, are we still meeting for lunch today at 12:30?"
+legitimate,"Dear, Hey, are we still meeting for lunch today at 12:30? Visit now."
+fraud,Warning: Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Reply ASAP.
+fraud,Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Visit now.
+legitimate,Hi! The meeting has been moved to room 302 due to technical issues in the main hall. Thank you.
+legitimate,"Hello, I'll be home in about 20 minutes. Please make sure the oven is preheated. Reply ASAP."
+fraud,"Hello, Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Thank you."
+fraud,"Hello, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Reply ASAP."
+legitimate,"Hello, The meeting has been moved to room 302 due to technical issues in the main hall. Click details."
+fraud,"Urgent: Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Code: 2218"
+fraud,"Warning: Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Visit now."
+fraud,"Hi! Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Reply ASAP."
+fraud,Warning: Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Thank you.
+fraud,"Hello, Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Thank you."
+legitimate,"Hello, I'll be home in about 20 minutes. Please make sure the oven is preheated. Thank you."
+fraud,"Dear, Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card..."
+fraud,"Dear, Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Click details."
+legitimate,Are you free for a quick call to review the design designs? Visit now.
+legitimate,Hi! Let's reschedule the coffee chat to Friday if that works better for you. Thank you.
+fraud,Hi! Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Visit now.
+fraud,"Urgent: Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Code: 6409"
+legitimate,Urgent: Let's reschedule the coffee chat to Friday if that works better for you. Click details.
+fraud,Hi! Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Visit now.
+fraud,"Hello, Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Reply ASAP."
+legitimate,"Hey, Your subscription payment was processed successfully. Thank you for your business. Click details."
+legitimate,"Hey, Your subscription payment was processed successfully. Thank you for your business."
+fraud,"Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes... Click details."
+legitimate,Hi! Your subscription payment was processed successfully. Thank you for your business. Click details.
+legitimate,"Dear, Your package has been delivered to your front porch. Have a great day! Code: 5238"
+legitimate,"Dear, Can you please send me the report by the end of the day? Thanks. Click details."
+legitimate,"Hi! Yes, I can help you move your couch this weekend. Just let me know the time. Code: 9373"
+legitimate,"Hello, Hey, are we still meeting for lunch today at 12:30? Reply ASAP."
+fraud,"Dear, Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Click details."
+fraud,"Hello, Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Visit now."
+legitimate,Warning: Thanks for the update. I'll review it and get back to you shortly. Click details.
+fraud,"Hey, Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Thank you."
+fraud,"Warning: Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service..."
+legitimate,"Hey buddy, happy birthday! Hope you have an amazing day! Code: 4381"
+fraud,"Hey, Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes..."
+fraud,Hi! Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Code: 3932
+fraud,Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin...
+legitimate,"Hi! Yes, I can help you move your couch this weekend. Just let me know the time. Code: 6319"
+fraud,"Hey, Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Visit now."
+legitimate,Urgent: Please find attached the receipt for your recent purchase at the grocery store. Click details.
+legitimate,"Hi! Hi team, here is the agenda for tomorrow's weekly sync meeting. Reply ASAP."
+fraud,Warning: Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Code: 6569
+legitimate,"Hey, Can you please send me the report by the end of the day? Thanks. Reply ASAP."
+legitimate,"Dear, Your subscription payment was processed successfully. Thank you for your business. Reply ASAP."
+fraud,Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Visit now.
+fraud,"Hey, Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club"
+fraud,Warning: Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Code: 7650
+legitimate,"Hello, Let's reschedule the coffee chat to Friday if that works better for you. Reply ASAP."
+legitimate,Please find attached the receipt for your recent purchase at the grocery store.
+legitimate,"Hi team, here is the agenda for tomorrow's weekly sync meeting. Code: 1652"
+fraud,"Hello, Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number..."
+fraud,"Dear, Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Thank you."
+fraud,Warning: Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top
+legitimate,Hi! Your subscription payment was processed successfully. Thank you for your business. Reply ASAP.
+legitimate,"Hello, Can you pick up some milk and eggs on your way back from work? Code: 5437"
+fraud,"Urgent: Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Thank you."
+legitimate,"Hi Mom, just calling to say I love you and check how you are doing. Reply ASAP."
+legitimate,Are you free for a quick call to review the design designs?
+fraud,"Hey, Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes..."
+legitimate,Can you please send me the report by the end of the day? Thanks. Click details.
+legitimate,"Dear, Yes, I can help you move your couch this weekend. Just let me know the time. Thank you."
+fraud,"Hey, Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Code: 4685"
+fraud,Warning: Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Click details.
+legitimate,"Hey, Just wanted to follow up on our discussion yesterday. Let me know when you're free. Visit now."
+legitimate,Hi! I'll be home in about 20 minutes. Please make sure the oven is preheated. Click details.
+fraud,"Dear, Dear Friend, I am writing to you from my hospital bed. I am suffering from terminal cancer and want to donate my estate of $5.4 Million to a god-fearing charity or individual who will execute my last wishes... Code: 6120"
+legitimate,"Hey, Your dentist appointment is confirmed for Tuesday at 10:00 AM. Thank you."
+fraud,"Dear, Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Thank you."
+legitimate,"Dear, The weather is lovely today, we should go for a walk in the evening. Code: 6253"
+fraud,"Urgent: Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds..."
+fraud,"Hello, Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Reply ASAP."
+fraud,"Dear, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service..."
+legitimate,Can you pick up some milk and eggs on your way back from work? Thank you.
+fraud,"Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Code: 6866"
+legitimate,"Hey, Let's reschedule the coffee chat to Friday if that works better for you. Thank you."
+legitimate,Hi! Can you pick up some milk and eggs on your way back from work? Code: 4053
+legitimate,Warning: Thanks for the update. I'll review it and get back to you shortly. Visit now.
+fraud,"Dear, Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top"
+fraud,Urgent: Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Reply ASAP.
+fraud,"Hey, Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000..."
+legitimate,"Hey, Hey! Don't forget we have band practice tonight at 7. Code: 7120"
+fraud,"Warning: Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Click details."
+fraud,"Dear, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Click details."
+legitimate,"Hey, Please find attached the receipt for your recent purchase at the grocery store. Thank you."
+fraud,"Dear, Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Reply ASAP."
+legitimate,"Hello, Hey! Don't forget we have band practice tonight at 7."
+legitimate,Warning: Let's reschedule the coffee chat to Friday if that works better for you. Visit now.
+legitimate,"Hey, The weather is lovely today, we should go for a walk in the evening."
+fraud,Hi! Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Code: 3646
+fraud,"Hi! Urgent Partnership Request. I have a lucrative gold trading opportunity in Ghana. We need a foreign partner to provide a shipping clearance fee of $3,500. We will share the profits 50/50, yielding over $200,000... Click details."
+legitimate,"Hello, The weather is lovely today, we should go for a walk in the evening. Visit now."
+legitimate,"Hey, Are you free for a quick call to review the design designs? Reply ASAP."
+fraud,"Hello, Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds..."
+legitimate,"Hello, Just wanted to follow up on our discussion yesterday. Let me know when you're free. Code: 7300"
+fraud,"Warning: Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Thank you."
+legitimate,Let's reschedule the coffee chat to Friday if that works better for you. Thank you.
+fraud,"Hello, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Click details."
+legitimate,Your subscription payment was processed successfully. Thank you for your business. Visit now.
+fraud,"Hi! Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Thank you."
+fraud,"Hi! Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service..."
+legitimate,"Dear, The meeting has been moved to room 302 due to technical issues in the main hall. Click details."
+legitimate,Urgent: Are you free for a quick call to review the design designs?
+legitimate,"Hello, Your subscription payment was processed successfully. Thank you for your business. Reply ASAP."
+fraud,Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card...
+fraud,Hi! Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Reply ASAP.
+legitimate,"Dear, The weather is lovely today, we should go for a walk in the evening."
+fraud,Warning: Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Reply ASAP.
+fraud,Hi! Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Click details.
+fraud,"Warning: Mystery Shopper Job Offer. We are recruiting secret shoppers in your area. You will receive a check for $2,000. Cash it, keep $400, and spend the rest purchasing iTunes gift cards to test customer service... Thank you."
+fraud,"Hi! Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Visit now."
+fraud,"Warning: Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Reply ASAP."
+legitimate,"Dear, Let's reschedule the coffee chat to Friday if that works better for you. Visit now."
+legitimate,Let's reschedule the coffee chat to Friday if that works better for you. Thank you.
+fraud,"Hello, Lottery Winning Notification! Your email address has won $1,000,000.00 USD in the Coca-Cola Mega Anniversary Promo. To process your claims, please contact our agent with your full name, country, and phone number... Reply ASAP."
+fraud,"Urgent: Direct Bank Wire Transfer. I am Dr. Fredrick Cole, director of the Central Bank. We have recovered your funds from corrupt officials. Please send your bank routing number, account number, and SSN to verify... Visit now."
+fraud,"Dear, Urgent Business Proposal. I am a manager at a bank in South Africa. I discovered an unclaimed deposit of $12.5M from a deceased foreign national. I need your assistance to claim these funds as the next of kin... Reply ASAP."
+fraud,Earn easy money renting out your bank account! We need local agents to receive transfers and forward them via Bitcoin. Keep a 10% commission. No experience needed! Contact us at http://fast-cash-agents.club Reply ASAP.
+fraud,"Dear, Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Visit now."
+legitimate,"Hey, I'll be home in about 20 minutes. Please make sure the oven is preheated."
+fraud,Warning: Crypto Investment Masterclass: Multiply your savings by 10x in just 7 days! Our AI-powered trading bot guarantees risk-free returns. Deposit your Bitcoin today at http://crypto-growth-guaranteed.top Code: 9810
+legitimate,Warning: Just wanted to follow up on our discussion yesterday. Let me know when you're free. Click details.
+legitimate,"Dear, Just wanted to follow up on our discussion yesterday. Let me know when you're free. Visit now."
+legitimate,"Hello, Yes, I can help you move your couch this weekend. Just let me know the time. Visit now."
+fraud,"Hello, Inherited Funds Release. The United Nations Compensation Commission has approved the release of your long overdue payment of $1.5 Million USD. Please pay the clearance fee of $150 via Western Union to get your card... Code: 8228"
+legitimate,Urgent: Just wanted to follow up on our discussion yesterday. Let me know when you're free. Visit now.
+legitimate,"Hello, Can you please send me the report by the end of the day? Thanks."
+legitimate,"Dear, Hi Mom, just calling to say I love you and check how you are doing. Code: 5184"
+legitimate,"The weather is lovely today, we should go for a walk in the evening. Code: 3730"
+legitimate,"Hey, Yes, I can help you move your couch this weekend. Just let me know the time. Code: 9719"
+legitimate,"Hello, Hi Mom, just calling to say I love you and check how you are doing. Click details."
+fraud,"Warning: Dearest One, I am Mrs. Mariam Abacha, widow of the late military dictator. I have the sum of $25 Million USD that I wish to transfer to your private account for investment purposes. I will compensate you with 30% of the funds... Reply ASAP."

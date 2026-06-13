@@ -1,0 +1,801 @@
+label,text
+legitimate,"Hey, are we still meeting for lunch today at 12:30?"
+legitimate,Can you please send me the report by the end of the day? Thanks.
+legitimate,Just wanted to follow up on our discussion yesterday. Let me know when you're free.
+legitimate,I'll be home in about 20 minutes. Please make sure the oven is preheated.
+legitimate,"Hi team, here is the agenda for tomorrow's weekly sync meeting."
+legitimate,Your package has been delivered to your front porch. Have a great day!
+legitimate,Are you free for a quick call to review the design designs?
+legitimate,Thanks for the update. I'll review it and get back to you shortly.
+legitimate,"Hi Mom, just calling to say I love you and check how you are doing."
+legitimate,Can you pick up some milk and eggs on your way back from work?
+legitimate,"The weather is lovely today, we should go for a walk in the evening."
+legitimate,Your dentist appointment is confirmed for Tuesday at 10:00 AM.
+legitimate,Hey! Don't forget we have band practice tonight at 7.
+legitimate,Please find attached the receipt for your recent purchase at the grocery store.
+legitimate,"Hi, I noticed a typo on slide 5 of the presentation, can you fix it?"
+legitimate,Let's reschedule the coffee chat to Friday if that works better for you.
+legitimate,"Yes, I can help you move your couch this weekend. Just let me know the time."
+legitimate,The meeting has been moved to room 302 due to technical issues in the main hall.
+legitimate,Your subscription payment was processed successfully. Thank you for your business.
+legitimate,"Hey buddy, happy birthday! Hope you have an amazing day!"
+phishing,"Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security"
+phishing,"Subject: Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login"
+phishing,"Subject: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth"
+phishing,Subject: Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net
+phishing,"Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php"
+phishing,"Subject: Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login"
+phishing,Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info
+phishing,Subject: Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login
+phishing,Subject: Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk
+phishing,"Subject: Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com"
+legitimate,Warning: Let's reschedule the coffee chat to Friday if that works better for you. Visit now.
+phishing,Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Visit now.
+legitimate,"Yes, I can help you move your couch this weekend. Just let me know the time. Click details."
+legitimate,"Hi! The weather is lovely today, we should go for a walk in the evening. Thank you."
+phishing,"Dear, Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Reply ASAP."
+phishing,"Warning: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Click details."
+phishing,Hi! Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Visit now.
+phishing,"Dear, Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Click details."
+legitimate,"Hey, Are you free for a quick call to review the design designs? Click details."
+legitimate,"Hey, I'll be home in about 20 minutes. Please make sure the oven is preheated."
+legitimate,"Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Code: 6030"
+legitimate,"Hello, Hey, are we still meeting for lunch today at 12:30? Reply ASAP."
+legitimate,"Hello, I'll be home in about 20 minutes. Please make sure the oven is preheated. Thank you."
+legitimate,"Hello, The weather is lovely today, we should go for a walk in the evening. Visit now."
+legitimate,Your subscription payment was processed successfully. Thank you for your business. Reply ASAP.
+legitimate,"Warning: Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Visit now."
+legitimate,"Hey, Thanks for the update. I'll review it and get back to you shortly."
+phishing,"Warning: Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php"
+legitimate,"Dear, I'll be home in about 20 minutes. Please make sure the oven is preheated. Click details."
+legitimate,"Dear, Can you pick up some milk and eggs on your way back from work?"
+phishing,"Hello, Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Code: 8182"
+phishing,"Hello, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Click details."
+legitimate,Hi! Thanks for the update. I'll review it and get back to you shortly. Visit now.
+legitimate,"Hello, Hi Mom, just calling to say I love you and check how you are doing. Reply ASAP."
+legitimate,Urgent: Just wanted to follow up on our discussion yesterday. Let me know when you're free. Thank you.
+phishing,"Warning: Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Thank you."
+legitimate,Warning: Can you pick up some milk and eggs on your way back from work? Code: 6385
+phishing,"Warning: Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Code: 7082"
+phishing,Urgent: Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Click details.
+legitimate,Hi! Just wanted to follow up on our discussion yesterday. Let me know when you're free. Code: 1456
+legitimate,"Hey, Hey! Don't forget we have band practice tonight at 7. Code: 7845"
+phishing,"Hello, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Visit now."
+phishing,"Urgent: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Reply ASAP."
+phishing,"Urgent: Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Thank you."
+phishing,Warning: Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Click details.
+phishing,"Dear, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Click details."
+phishing,"Hello, Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Thank you."
+legitimate,"Hello, Thanks for the update. I'll review it and get back to you shortly. Reply ASAP."
+phishing,"Hey, Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Code: 6966"
+phishing,"Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Click details."
+phishing,"Urgent: Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Click details."
+phishing,"Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Visit now."
+legitimate,"Warning: Hi team, here is the agenda for tomorrow's weekly sync meeting. Thank you."
+legitimate,"Hi Mom, just calling to say I love you and check how you are doing. Reply ASAP."
+phishing,"Warning: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Click details."
+legitimate,"Hey, Yes, I can help you move your couch this weekend. Just let me know the time."
+legitimate,"Dear, Please find attached the receipt for your recent purchase at the grocery store. Thank you."
+phishing,"Hello, Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Reply ASAP."
+phishing,"Hello, Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info"
+legitimate,"Hey, Just wanted to follow up on our discussion yesterday. Let me know when you're free. Click details."
+legitimate,"Dear, Your package has been delivered to your front porch. Have a great day! Thank you."
+legitimate,"Hey, Are you free for a quick call to review the design designs? Reply ASAP."
+legitimate,"Hey, Are you free for a quick call to review the design designs? Reply ASAP."
+legitimate,The meeting has been moved to room 302 due to technical issues in the main hall. Thank you.
+phishing,"Hey, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php"
+phishing,Urgent: Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Visit now.
+phishing,"Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com"
+phishing,Urgent: Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Thank you.
+legitimate,"Hey, Can you pick up some milk and eggs on your way back from work? Visit now."
+phishing,"Warning: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Thank you."
+phishing,Urgent: Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Click details.
+legitimate,Urgent: Thanks for the update. I'll review it and get back to you shortly. Reply ASAP.
+phishing,"Hey, Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Thank you."
+phishing,"Hello, Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Code: 8546"
+phishing,"Hello, Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Click details."
+phishing,"Dear, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php"
+legitimate,Warning: Please find attached the receipt for your recent purchase at the grocery store. Click details.
+legitimate,Urgent: The meeting has been moved to room 302 due to technical issues in the main hall. Click details.
+phishing,"Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Reply ASAP."
+phishing,"Hello, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Visit now."
+phishing,"Hey, Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Click details."
+phishing,"Urgent: Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Visit now."
+phishing,"Hey, Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info"
+phishing,"Hello, Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Click details."
+legitimate,"Dear, Please find attached the receipt for your recent purchase at the grocery store."
+phishing,Hi! Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net
+legitimate,"Urgent: Hi, I noticed a typo on slide 5 of the presentation, can you fix it?"
+legitimate,Your package has been delivered to your front porch. Have a great day! Thank you.
+legitimate,"Hello, Hey buddy, happy birthday! Hope you have an amazing day! Reply ASAP."
+legitimate,"Hello, Just wanted to follow up on our discussion yesterday. Let me know when you're free. Visit now."
+phishing,Hi! Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info
+legitimate,Your subscription payment was processed successfully. Thank you for your business. Visit now.
+legitimate,"Hi! Hi team, here is the agenda for tomorrow's weekly sync meeting. Visit now."
+phishing,"Hi! Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Reply ASAP."
+legitimate,"Hello, Your subscription payment was processed successfully. Thank you for your business."
+phishing,"Hello, Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login"
+legitimate,"Hey buddy, happy birthday! Hope you have an amazing day! Visit now."
+legitimate,Hey! Don't forget we have band practice tonight at 7. Code: 4193
+phishing,"Warning: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Code: 1840"
+legitimate,Hi! Thanks for the update. I'll review it and get back to you shortly. Reply ASAP.
+legitimate,"Urgent: Yes, I can help you move your couch this weekend. Just let me know the time. Code: 9227"
+phishing,Hi! Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info
+phishing,"Warning: Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Thank you."
+legitimate,"Dear, The weather is lovely today, we should go for a walk in the evening."
+legitimate,Can you please send me the report by the end of the day? Thanks.
+phishing,"Hello, Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login"
+legitimate,"Hello, Please find attached the receipt for your recent purchase at the grocery store. Thank you."
+legitimate,Urgent: Thanks for the update. I'll review it and get back to you shortly. Click details.
+legitimate,"Hello, Hey buddy, happy birthday! Hope you have an amazing day! Thank you."
+legitimate,"Urgent: The weather is lovely today, we should go for a walk in the evening. Thank you."
+legitimate,Warning: Just wanted to follow up on our discussion yesterday. Let me know when you're free. Reply ASAP.
+legitimate,Hey! Don't forget we have band practice tonight at 7. Visit now.
+phishing,"Hello, Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Thank you."
+legitimate,"Warning: The weather is lovely today, we should go for a walk in the evening. Click details."
+phishing,Warning: Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Reply ASAP.
+legitimate,"Hi! The weather is lovely today, we should go for a walk in the evening. Visit now."
+legitimate,"Hey, Hi team, here is the agenda for tomorrow's weekly sync meeting. Thank you."
+phishing,"Hi! Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Code: 6205"
+legitimate,Hi! Let's reschedule the coffee chat to Friday if that works better for you. Code: 7314
+phishing,Urgent: Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net
+legitimate,Warning: Just wanted to follow up on our discussion yesterday. Let me know when you're free. Reply ASAP.
+phishing,"Warning: Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Click details."
+phishing,"Hey, Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Click details."
+legitimate,"Hey, Your dentist appointment is confirmed for Tuesday at 10:00 AM. Visit now."
+legitimate,"Hello, Your package has been delivered to your front porch. Have a great day! Visit now."
+legitimate,"Hey, Your dentist appointment is confirmed for Tuesday at 10:00 AM. Visit now."
+legitimate,"Dear, Are you free for a quick call to review the design designs? Visit now."
+phishing,"Hello, Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net"
+phishing,"Dear, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Code: 2143"
+phishing,Urgent: Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Reply ASAP.
+phishing,"Hi! Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php"
+legitimate,"Hey, Hey! Don't forget we have band practice tonight at 7. Code: 4745"
+phishing,"Hi! Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Visit now."
+legitimate,Warning: The meeting has been moved to room 302 due to technical issues in the main hall. Visit now.
+phishing,"Hello, Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Code: 3337"
+legitimate,Warning: Your dentist appointment is confirmed for Tuesday at 10:00 AM. Click details.
+legitimate,Warning: Let's reschedule the coffee chat to Friday if that works better for you. Visit now.
+phishing,"Hello, Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Reply ASAP."
+phishing,Urgent: Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Visit now.
+phishing,Hi! Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Click details.
+phishing,"Hello, Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Reply ASAP."
+phishing,"Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Reply ASAP."
+legitimate,"Hello, Thanks for the update. I'll review it and get back to you shortly. Reply ASAP."
+legitimate,Warning: Are you free for a quick call to review the design designs? Reply ASAP.
+legitimate,Your subscription payment was processed successfully. Thank you for your business. Thank you.
+legitimate,Hi! Your package has been delivered to your front porch. Have a great day! Thank you.
+legitimate,Warning: The meeting has been moved to room 302 due to technical issues in the main hall. Code: 4289
+phishing,Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net
+legitimate,"Dear, Hi Mom, just calling to say I love you and check how you are doing. Thank you."
+legitimate,"Hi! Hi Mom, just calling to say I love you and check how you are doing."
+legitimate,"Urgent: Yes, I can help you move your couch this weekend. Just let me know the time. Code: 9464"
+legitimate,"Hey, Hey buddy, happy birthday! Hope you have an amazing day! Thank you."
+legitimate,Hi! The meeting has been moved to room 302 due to technical issues in the main hall. Thank you.
+phishing,"Urgent: Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Code: 8443"
+phishing,"Dear, Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Click details."
+legitimate,"Warning: Hey buddy, happy birthday! Hope you have an amazing day! Thank you."
+legitimate,Urgent: Are you free for a quick call to review the design designs? Reply ASAP.
+phishing,"Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php"
+legitimate,"Hello, Please find attached the receipt for your recent purchase at the grocery store. Visit now."
+legitimate,"Dear, Your subscription payment was processed successfully. Thank you for your business."
+legitimate,"Hello, The weather is lovely today, we should go for a walk in the evening. Click details."
+legitimate,Hi! Let's reschedule the coffee chat to Friday if that works better for you. Reply ASAP.
+legitimate,"Warning: Yes, I can help you move your couch this weekend. Just let me know the time. Click details."
+phishing,Hi! Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Click details.
+legitimate,"Hello, Hey! Don't forget we have band practice tonight at 7."
+legitimate,Warning: Please find attached the receipt for your recent purchase at the grocery store. Reply ASAP.
+phishing,"Hello, Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Click details."
+phishing,Urgent: Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Code: 1134
+legitimate,"Dear, Thanks for the update. I'll review it and get back to you shortly. Visit now."
+legitimate,"Hello, The meeting has been moved to room 302 due to technical issues in the main hall. Reply ASAP."
+legitimate,Urgent: I'll be home in about 20 minutes. Please make sure the oven is preheated. Reply ASAP.
+phishing,"Urgent: Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Thank you."
+legitimate,Hi! Can you please send me the report by the end of the day? Thanks. Reply ASAP.
+legitimate,"Dear, The meeting has been moved to room 302 due to technical issues in the main hall. Reply ASAP."
+phishing,Warning: Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Code: 8470
+phishing,"Hello, Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Visit now."
+legitimate,"Urgent: Yes, I can help you move your couch this weekend. Just let me know the time. Reply ASAP."
+legitimate,"Dear, Your subscription payment was processed successfully. Thank you for your business."
+phishing,"Urgent: Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Reply ASAP."
+phishing,"Urgent: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Click details."
+legitimate,Warning: Your package has been delivered to your front porch. Have a great day!
+phishing,Warning: Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Click details.
+phishing,"Warning: Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Visit now."
+legitimate,Can you pick up some milk and eggs on your way back from work? Reply ASAP.
+phishing,"Hi! Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Reply ASAP."
+phishing,"Warning: Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Code: 4111"
+phishing,"Urgent: Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Click details."
+legitimate,Urgent: Can you please send me the report by the end of the day? Thanks.
+legitimate,"Urgent: The weather is lovely today, we should go for a walk in the evening. Click details."
+phishing,"Dear, Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Code: 3269"
+legitimate,Your dentist appointment is confirmed for Tuesday at 10:00 AM. Code: 8845
+phishing,"Hey, Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth"
+legitimate,"Hello, Your package has been delivered to your front porch. Have a great day! Code: 3694"
+phishing,Urgent: Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net
+legitimate,"Hello, Your package has been delivered to your front porch. Have a great day! Code: 3562"
+phishing,"Hi! Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Click details."
+legitimate,"Hey, Hey, are we still meeting for lunch today at 12:30? Code: 2762"
+phishing,"Hello, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Thank you."
+legitimate,"Hey, I'll be home in about 20 minutes. Please make sure the oven is preheated."
+legitimate,"Hey, Your subscription payment was processed successfully. Thank you for your business. Reply ASAP."
+legitimate,I'll be home in about 20 minutes. Please make sure the oven is preheated. Code: 5039
+legitimate,"Hello, Please find attached the receipt for your recent purchase at the grocery store. Click details."
+phishing,"Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Code: 2063"
+phishing,"Dear, Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Thank you."
+phishing,Hi! Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login
+phishing,"Hi! Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Code: 6729"
+phishing,"Urgent: Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Click details."
+legitimate,"Hello, Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Code: 9017"
+legitimate,Urgent: Your package has been delivered to your front porch. Have a great day! Thank you.
+legitimate,"Hello, The meeting has been moved to room 302 due to technical issues in the main hall. Visit now."
+legitimate,Your subscription payment was processed successfully. Thank you for your business. Reply ASAP.
+phishing,"Hey, Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Visit now."
+legitimate,Warning: The meeting has been moved to room 302 due to technical issues in the main hall. Thank you.
+phishing,Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Thank you.
+legitimate,Warning: Please find attached the receipt for your recent purchase at the grocery store. Thank you.
+legitimate,"Hey, Hey, are we still meeting for lunch today at 12:30? Click details."
+phishing,"Warning: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Reply ASAP."
+phishing,"Hello, Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Visit now."
+phishing,"Hello, Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security"
+phishing,"Hey, Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth"
+phishing,"Hello, Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Code: 4810"
+legitimate,"Hello, Yes, I can help you move your couch this weekend. Just let me know the time. Code: 7023"
+phishing,Hi! Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Code: 4485
+legitimate,Hi! Thanks for the update. I'll review it and get back to you shortly. Click details.
+phishing,"Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Reply ASAP."
+legitimate,"Hi! Hey, are we still meeting for lunch today at 12:30? Code: 4037"
+phishing,"Dear, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk"
+phishing,"Hello, Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Reply ASAP."
+phishing,"Hello, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Visit now."
+legitimate,Warning: Let's reschedule the coffee chat to Friday if that works better for you. Code: 4406
+legitimate,Hi! Your dentist appointment is confirmed for Tuesday at 10:00 AM. Click details.
+legitimate,"Hey, are we still meeting for lunch today at 12:30? Code: 2439"
+phishing,"Hi! Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Code: 7219"
+legitimate,"Hello, Hi Mom, just calling to say I love you and check how you are doing. Visit now."
+phishing,"Warning: Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Click details."
+phishing,"Urgent: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth"
+phishing,"Hello, Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com"
+legitimate,Hi! Your package has been delivered to your front porch. Have a great day! Code: 7530
+phishing,"Hello, Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com"
+legitimate,Urgent: Let's reschedule the coffee chat to Friday if that works better for you. Reply ASAP.
+legitimate,"Warning: Hey, are we still meeting for lunch today at 12:30? Reply ASAP."
+legitimate,Warning: The meeting has been moved to room 302 due to technical issues in the main hall. Visit now.
+phishing,Hi! Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Code: 8556
+legitimate,Hi! Thanks for the update. I'll review it and get back to you shortly. Code: 7289
+phishing,"Urgent: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Code: 8710"
+phishing,"Dear, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Reply ASAP."
+phishing,"Hello, Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Click details."
+phishing,Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Code: 4964
+legitimate,"Hey, I'll be home in about 20 minutes. Please make sure the oven is preheated. Reply ASAP."
+phishing,"Hi! Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com"
+legitimate,"Dear, Hi Mom, just calling to say I love you and check how you are doing. Reply ASAP."
+legitimate,"Warning: Hi Mom, just calling to say I love you and check how you are doing. Visit now."
+legitimate,Hi! Can you pick up some milk and eggs on your way back from work? Thank you.
+phishing,"Hi! Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Reply ASAP."
+phishing,"Hey, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Thank you."
+phishing,Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Reply ASAP.
+phishing,"Warning: Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Code: 6229"
+legitimate,Urgent: Please find attached the receipt for your recent purchase at the grocery store.
+phishing,"Warning: Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Thank you."
+legitimate,"Hi! Hi Mom, just calling to say I love you and check how you are doing. Thank you."
+legitimate,Urgent: I'll be home in about 20 minutes. Please make sure the oven is preheated. Code: 1735
+legitimate,"Urgent: Hi team, here is the agenda for tomorrow's weekly sync meeting. Visit now."
+phishing,"Hi! Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php"
+legitimate,Urgent: Are you free for a quick call to review the design designs? Thank you.
+phishing,"Dear, Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Visit now."
+legitimate,Thanks for the update. I'll review it and get back to you shortly. Reply ASAP.
+phishing,"Hello, Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Thank you."
+phishing,Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Reply ASAP.
+phishing,"Urgent: Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php"
+phishing,Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk
+legitimate,"Hey, Are you free for a quick call to review the design designs?"
+legitimate,Urgent: Your dentist appointment is confirmed for Tuesday at 10:00 AM. Visit now.
+legitimate,"Dear, Hey buddy, happy birthday! Hope you have an amazing day! Visit now."
+phishing,"Dear, Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Click details."
+phishing,"Hey, Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Reply ASAP."
+legitimate,"Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Code: 1439"
+legitimate,"Dear, Can you please send me the report by the end of the day? Thanks."
+phishing,Hi! Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Thank you.
+legitimate,"Hi Mom, just calling to say I love you and check how you are doing. Reply ASAP."
+phishing,Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Visit now.
+legitimate,"Urgent: Hey, are we still meeting for lunch today at 12:30? Reply ASAP."
+phishing,"Hello, Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Reply ASAP."
+legitimate,Let's reschedule the coffee chat to Friday if that works better for you. Thank you.
+legitimate,Let's reschedule the coffee chat to Friday if that works better for you. Thank you.
+phishing,"Urgent: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Thank you."
+phishing,"Dear, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk"
+phishing,"Hi! Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Code: 4955"
+phishing,"Dear, Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Click details."
+phishing,"Urgent: Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Code: 5542"
+phishing,"Warning: Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Click details."
+legitimate,"Dear, Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Thank you."
+legitimate,Urgent: Your dentist appointment is confirmed for Tuesday at 10:00 AM. Click details.
+legitimate,"Hello, Let's reschedule the coffee chat to Friday if that works better for you. Click details."
+legitimate,Hi! Your dentist appointment is confirmed for Tuesday at 10:00 AM. Click details.
+phishing,"Hi! Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth"
+phishing,"Hi! Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Reply ASAP."
+legitimate,"Hi! Hi team, here is the agenda for tomorrow's weekly sync meeting. Code: 2884"
+legitimate,Your subscription payment was processed successfully. Thank you for your business. Reply ASAP.
+phishing,Warning: Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Visit now.
+phishing,"Dear, Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Thank you."
+phishing,"Dear, Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login"
+phishing,"Urgent: Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login"
+legitimate,Warning: I'll be home in about 20 minutes. Please make sure the oven is preheated. Code: 3836
+phishing,"Hey, Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Reply ASAP."
+phishing,"Hi! Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Reply ASAP."
+phishing,Urgent: Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Thank you.
+legitimate,"Hey, Hey! Don't forget we have band practice tonight at 7. Code: 2313"
+phishing,Urgent: Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login
+legitimate,Urgent: The meeting has been moved to room 302 due to technical issues in the main hall. Reply ASAP.
+phishing,"Hey, Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Code: 7106"
+legitimate,Urgent: Hey! Don't forget we have band practice tonight at 7. Thank you.
+legitimate,"Dear, Hi team, here is the agenda for tomorrow's weekly sync meeting. Thank you."
+phishing,Urgent: Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Code: 1327
+legitimate,"Urgent: Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Code: 2022"
+legitimate,Warning: Can you pick up some milk and eggs on your way back from work? Thank you.
+phishing,Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Code: 8556
+phishing,"Hi! Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Code: 4972"
+phishing,"Urgent: Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Reply ASAP."
+legitimate,"Hi! Hey, are we still meeting for lunch today at 12:30?"
+legitimate,"Hi! Hey buddy, happy birthday! Hope you have an amazing day!"
+phishing,"Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Thank you."
+phishing,"Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Reply ASAP."
+phishing,"Urgent: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Reply ASAP."
+legitimate,Hi! Thanks for the update. I'll review it and get back to you shortly. Thank you.
+legitimate,"Hi! Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Reply ASAP."
+legitimate,"Hey buddy, happy birthday! Hope you have an amazing day!"
+phishing,"Hello, Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net"
+phishing,"Dear, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Reply ASAP."
+phishing,"Dear, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Thank you."
+legitimate,"Warning: The weather is lovely today, we should go for a walk in the evening."
+phishing,"Dear, Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Code: 8088"
+legitimate,"Hello, Hi team, here is the agenda for tomorrow's weekly sync meeting."
+phishing,"Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Click details."
+legitimate,Hi! Just wanted to follow up on our discussion yesterday. Let me know when you're free. Click details.
+legitimate,Warning: The meeting has been moved to room 302 due to technical issues in the main hall.
+phishing,"Hello, Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Click details."
+legitimate,"Hi team, here is the agenda for tomorrow's weekly sync meeting."
+phishing,"Hello, Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Reply ASAP."
+phishing,"Warning: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Click details."
+legitimate,Warning: Your subscription payment was processed successfully. Thank you for your business.
+legitimate,"Urgent: Yes, I can help you move your couch this weekend. Just let me know the time. Reply ASAP."
+phishing,"Urgent: Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Thank you."
+legitimate,"Hello, The meeting has been moved to room 302 due to technical issues in the main hall."
+legitimate,Your subscription payment was processed successfully. Thank you for your business. Visit now.
+legitimate,Hey! Don't forget we have band practice tonight at 7.
+phishing,"Urgent: Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security"
+legitimate,"Hey, Hey buddy, happy birthday! Hope you have an amazing day!"
+phishing,"Warning: Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Reply ASAP."
+legitimate,"Urgent: Hey, are we still meeting for lunch today at 12:30?"
+legitimate,Warning: Can you please send me the report by the end of the day? Thanks. Click details.
+phishing,"Hey, Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Code: 5888"
+legitimate,Let's reschedule the coffee chat to Friday if that works better for you. Visit now.
+legitimate,Warning: Your package has been delivered to your front porch. Have a great day! Reply ASAP.
+phishing,"Dear, Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Thank you."
+legitimate,Hi! Can you please send me the report by the end of the day? Thanks.
+phishing,"Hello, Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Thank you."
+phishing,"Urgent: Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Thank you."
+phishing,Hi! Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Code: 1092
+phishing,Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Reply ASAP.
+legitimate,"Dear, Your dentist appointment is confirmed for Tuesday at 10:00 AM."
+phishing,"Hey, Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Click details."
+phishing,"Warning: Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Click details."
+phishing,"Urgent: Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Click details."
+phishing,"Hello, Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Thank you."
+phishing,"Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Click details."
+phishing,"Hi! Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Click details."
+legitimate,"Dear, Hi Mom, just calling to say I love you and check how you are doing."
+phishing,Hi! Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net
+phishing,"Warning: Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Visit now."
+legitimate,Urgent: Your subscription payment was processed successfully. Thank you for your business. Click details.
+legitimate,"Hey, Just wanted to follow up on our discussion yesterday. Let me know when you're free. Visit now."
+legitimate,Can you please send me the report by the end of the day? Thanks. Code: 5768
+phishing,"Warning: Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Click details."
+phishing,"Urgent: Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Click details."
+legitimate,"Hey, Just wanted to follow up on our discussion yesterday. Let me know when you're free. Reply ASAP."
+phishing,"Urgent: Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Reply ASAP."
+legitimate,"Hello, Hey, are we still meeting for lunch today at 12:30? Click details."
+phishing,"Dear, Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Code: 7364"
+phishing,"Urgent: Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Thank you."
+legitimate,Warning: Just wanted to follow up on our discussion yesterday. Let me know when you're free.
+phishing,"Warning: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Reply ASAP."
+phishing,"Hey, Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Click details."
+phishing,"Hi! Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login"
+legitimate,Can you please send me the report by the end of the day? Thanks. Click details.
+legitimate,"Hi! Yes, I can help you move your couch this weekend. Just let me know the time. Thank you."
+phishing,"Urgent: Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Click details."
+legitimate,"Hello, The weather is lovely today, we should go for a walk in the evening. Reply ASAP."
+legitimate,Urgent: Can you pick up some milk and eggs on your way back from work?
+legitimate,"Warning: Hey buddy, happy birthday! Hope you have an amazing day! Reply ASAP."
+legitimate,"Urgent: Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Code: 7624"
+legitimate,Hi! I'll be home in about 20 minutes. Please make sure the oven is preheated. Visit now.
+phishing,Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Code: 1893
+phishing,"Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Code: 2953"
+phishing,"Hello, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Thank you."
+phishing,"Hi! Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Code: 8060"
+phishing,"Warning: Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Visit now."
+phishing,Warning: Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Click details.
+phishing,"Hi! Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Click details."
+phishing,"Dear, Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Code: 3130"
+legitimate,"Dear, Hey! Don't forget we have band practice tonight at 7. Thank you."
+legitimate,"Hi! Hi, I noticed a typo on slide 5 of the presentation, can you fix it?"
+legitimate,Let's reschedule the coffee chat to Friday if that works better for you.
+phishing,"Hey, Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Reply ASAP."
+legitimate,"Dear, The weather is lovely today, we should go for a walk in the evening. Click details."
+phishing,"Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Visit now."
+legitimate,Warning: Your package has been delivered to your front porch. Have a great day!
+legitimate,Hi! Just wanted to follow up on our discussion yesterday. Let me know when you're free. Visit now.
+legitimate,"Hey, Your dentist appointment is confirmed for Tuesday at 10:00 AM. Visit now."
+phishing,"Hey, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Thank you."
+legitimate,"Warning: Hi Mom, just calling to say I love you and check how you are doing. Visit now."
+legitimate,Your package has been delivered to your front porch. Have a great day! Reply ASAP.
+phishing,"Dear, Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Visit now."
+phishing,"Dear, Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com"
+phishing,"Hello, Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Reply ASAP."
+phishing,"Hi! Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Reply ASAP."
+phishing,"Hey, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Click details."
+phishing,Hi! Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Click details.
+phishing,"Hello, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Thank you."
+phishing,"Dear, Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Code: 1863"
+legitimate,"Dear, Can you please send me the report by the end of the day? Thanks. Visit now."
+legitimate,Warning: Please find attached the receipt for your recent purchase at the grocery store. Thank you.
+legitimate,"Hi! Hi Mom, just calling to say I love you and check how you are doing. Reply ASAP."
+legitimate,"Dear, Hey buddy, happy birthday! Hope you have an amazing day! Thank you."
+phishing,"Hello, Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Thank you."
+phishing,"Warning: Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Thank you."
+phishing,"Hey, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Thank you."
+legitimate,"Hey, The weather is lovely today, we should go for a walk in the evening. Code: 3117"
+phishing,"Urgent: Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login"
+phishing,Hi! Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net
+phishing,Warning: Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Reply ASAP.
+legitimate,Hi! Thanks for the update. I'll review it and get back to you shortly. Reply ASAP.
+phishing,"Dear, Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Thank you."
+legitimate,"Hey, Hey! Don't forget we have band practice tonight at 7. Reply ASAP."
+phishing,"Dear, Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Thank you."
+legitimate,"Hi! Hey, are we still meeting for lunch today at 12:30? Click details."
+phishing,"Hi! Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Reply ASAP."
+legitimate,Hi! I'll be home in about 20 minutes. Please make sure the oven is preheated. Click details.
+legitimate,"Hello, Are you free for a quick call to review the design designs? Reply ASAP."
+legitimate,"Hi! Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Thank you."
+legitimate,Urgent: The meeting has been moved to room 302 due to technical issues in the main hall. Code: 4552
+legitimate,"Warning: Hi team, here is the agenda for tomorrow's weekly sync meeting. Click details."
+legitimate,Are you free for a quick call to review the design designs? Thank you.
+legitimate,Warning: Just wanted to follow up on our discussion yesterday. Let me know when you're free. Reply ASAP.
+phishing,"Hey, Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Thank you."
+legitimate,"Warning: Hi Mom, just calling to say I love you and check how you are doing. Visit now."
+phishing,"Hey, Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Code: 4336"
+phishing,"Hello, Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Reply ASAP."
+phishing,"Hey, Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Click details."
+phishing,"Hey, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Reply ASAP."
+legitimate,"Hey, Hey buddy, happy birthday! Hope you have an amazing day! Click details."
+legitimate,Urgent: Your subscription payment was processed successfully. Thank you for your business. Click details.
+legitimate,"Hello, Are you free for a quick call to review the design designs? Visit now."
+legitimate,Your package has been delivered to your front porch. Have a great day!
+phishing,"Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login"
+legitimate,"Hey, Your dentist appointment is confirmed for Tuesday at 10:00 AM. Visit now."
+legitimate,"Dear, Just wanted to follow up on our discussion yesterday. Let me know when you're free. Click details."
+legitimate,Hi! I'll be home in about 20 minutes. Please make sure the oven is preheated. Reply ASAP.
+legitimate,"Urgent: The weather is lovely today, we should go for a walk in the evening. Thank you."
+legitimate,"Hey, are we still meeting for lunch today at 12:30? Reply ASAP."
+phishing,"Hey, Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Thank you."
+legitimate,Your package has been delivered to your front porch. Have a great day! Click details.
+phishing,Warning: Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Thank you.
+phishing,Warning: Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Click details.
+legitimate,Urgent: Let's reschedule the coffee chat to Friday if that works better for you. Thank you.
+legitimate,Can you pick up some milk and eggs on your way back from work? Visit now.
+phishing,"Dear, Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security"
+legitimate,Hi! Hey! Don't forget we have band practice tonight at 7. Click details.
+phishing,"Hi! Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Click details."
+legitimate,"Hello, Are you free for a quick call to review the design designs? Reply ASAP."
+legitimate,"Hi! Hey buddy, happy birthday! Hope you have an amazing day!"
+legitimate,Hi! Are you free for a quick call to review the design designs? Thank you.
+legitimate,Warning: Your subscription payment was processed successfully. Thank you for your business. Click details.
+legitimate,"Dear, Your package has been delivered to your front porch. Have a great day! Thank you."
+phishing,"Hello, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Reply ASAP."
+legitimate,Warning: Your package has been delivered to your front porch. Have a great day! Click details.
+legitimate,"Hey, Yes, I can help you move your couch this weekend. Just let me know the time. Reply ASAP."
+legitimate,"Warning: The weather is lovely today, we should go for a walk in the evening. Code: 1804"
+phishing,"Dear, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php"
+phishing,"Hello, Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Click details."
+legitimate,Urgent: Just wanted to follow up on our discussion yesterday. Let me know when you're free. Reply ASAP.
+phishing,"Warning: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Thank you."
+legitimate,"Hey, Your subscription payment was processed successfully. Thank you for your business. Thank you."
+legitimate,Warning: The meeting has been moved to room 302 due to technical issues in the main hall. Reply ASAP.
+phishing,"Dear, Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Visit now."
+legitimate,"Hey, Just wanted to follow up on our discussion yesterday. Let me know when you're free. Thank you."
+phishing,"Hi! Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Reply ASAP."
+legitimate,"Hey, Your subscription payment was processed successfully. Thank you for your business. Click details."
+phishing,"Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Thank you."
+phishing,Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Thank you.
+legitimate,Can you please send me the report by the end of the day? Thanks. Visit now.
+legitimate,"Dear, Can you please send me the report by the end of the day? Thanks. Visit now."
+legitimate,Urgent: Can you pick up some milk and eggs on your way back from work? Visit now.
+legitimate,"Warning: Hi Mom, just calling to say I love you and check how you are doing."
+phishing,"Warning: Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Thank you."
+legitimate,Hi! Can you pick up some milk and eggs on your way back from work? Code: 7108
+phishing,"Hello, Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Click details."
+phishing,"Hello, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Thank you."
+legitimate,Warning: The meeting has been moved to room 302 due to technical issues in the main hall. Click details.
+phishing,Urgent: Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Code: 7439
+phishing,"Warning: Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Click details."
+phishing,"Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login"
+phishing,"Urgent: Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Code: 8029"
+phishing,"Hello, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php"
+legitimate,"Dear, Hey buddy, happy birthday! Hope you have an amazing day! Code: 2429"
+legitimate,"Hey, I'll be home in about 20 minutes. Please make sure the oven is preheated. Visit now."
+phishing,"Dear, Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Reply ASAP."
+phishing,"Urgent: Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Code: 9075"
+legitimate,"Hey, Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Code: 6280"
+legitimate,Urgent: Your dentist appointment is confirmed for Tuesday at 10:00 AM. Visit now.
+legitimate,"Hey, Hi team, here is the agenda for tomorrow's weekly sync meeting. Click details."
+legitimate,Hi! Your subscription payment was processed successfully. Thank you for your business.
+legitimate,"Hello, Hey buddy, happy birthday! Hope you have an amazing day! Click details."
+phishing,"Warning: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Reply ASAP."
+legitimate,"Urgent: The weather is lovely today, we should go for a walk in the evening. Code: 1032"
+phishing,"Hey, Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Code: 6577"
+legitimate,Warning: Let's reschedule the coffee chat to Friday if that works better for you. Reply ASAP.
+legitimate,"Hello, Can you pick up some milk and eggs on your way back from work? Reply ASAP."
+legitimate,"Hey, Can you please send me the report by the end of the day? Thanks. Visit now."
+legitimate,"Hey, Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Click details."
+phishing,"Dear, Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Reply ASAP."
+phishing,Warning: Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Visit now.
+legitimate,"Hi! Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Click details."
+legitimate,"Hey, Please find attached the receipt for your recent purchase at the grocery store. Reply ASAP."
+legitimate,Hey! Don't forget we have band practice tonight at 7. Visit now.
+legitimate,"Dear, Your package has been delivered to your front porch. Have a great day! Thank you."
+phishing,"Dear, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Thank you."
+legitimate,"Hey, Your subscription payment was processed successfully. Thank you for your business. Code: 9245"
+legitimate,"Warning: Hey buddy, happy birthday! Hope you have an amazing day! Reply ASAP."
+legitimate,Your dentist appointment is confirmed for Tuesday at 10:00 AM. Click details.
+phishing,"Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Click details."
+legitimate,Please find attached the receipt for your recent purchase at the grocery store. Reply ASAP.
+legitimate,"The weather is lovely today, we should go for a walk in the evening. Visit now."
+legitimate,Can you please send me the report by the end of the day? Thanks.
+legitimate,"Urgent: Hey, are we still meeting for lunch today at 12:30? Click details."
+legitimate,Are you free for a quick call to review the design designs? Visit now.
+legitimate,"Hey, Can you please send me the report by the end of the day? Thanks. Thank you."
+phishing,"Dear, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk"
+legitimate,"Hey, I'll be home in about 20 minutes. Please make sure the oven is preheated. Visit now."
+phishing,"Urgent: Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Reply ASAP."
+phishing,"Dear, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php"
+phishing,"Warning: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Reply ASAP."
+legitimate,"Hello, Let's reschedule the coffee chat to Friday if that works better for you. Thank you."
+legitimate,"Dear, The meeting has been moved to room 302 due to technical issues in the main hall."
+legitimate,Hi! Please find attached the receipt for your recent purchase at the grocery store. Click details.
+phishing,"Hey, Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net"
+legitimate,Hi! Thanks for the update. I'll review it and get back to you shortly. Visit now.
+legitimate,Warning: I'll be home in about 20 minutes. Please make sure the oven is preheated. Thank you.
+phishing,Urgent: Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Click details.
+legitimate,Hi! Thanks for the update. I'll review it and get back to you shortly. Thank you.
+legitimate,"Hey, I'll be home in about 20 minutes. Please make sure the oven is preheated. Reply ASAP."
+legitimate,Please find attached the receipt for your recent purchase at the grocery store. Code: 9020
+legitimate,"The weather is lovely today, we should go for a walk in the evening. Code: 1572"
+phishing,"Hello, Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login"
+phishing,Urgent: Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Click details.
+phishing,"Urgent: Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Thank you."
+phishing,"Warning: Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com"
+phishing,"Hey, Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Visit now."
+phishing,"Hello, Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Click details."
+phishing,"Urgent: Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Code: 4190"
+legitimate,"Urgent: Yes, I can help you move your couch this weekend. Just let me know the time."
+legitimate,Let's reschedule the coffee chat to Friday if that works better for you. Code: 4860
+legitimate,"Warning: Hi team, here is the agenda for tomorrow's weekly sync meeting. Code: 6959"
+legitimate,Hi! Thanks for the update. I'll review it and get back to you shortly. Visit now.
+phishing,"Urgent: Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Thank you."
+legitimate,"Dear, Your package has been delivered to your front porch. Have a great day! Visit now."
+phishing,"Warning: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Thank you."
+phishing,"Dear, Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Reply ASAP."
+legitimate,Hi! Your subscription payment was processed successfully. Thank you for your business. Reply ASAP.
+phishing,"Dear, Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Thank you."
+legitimate,Thanks for the update. I'll review it and get back to you shortly. Reply ASAP.
+phishing,"Hello, Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net"
+legitimate,"Urgent: The weather is lovely today, we should go for a walk in the evening. Visit now."
+legitimate,Please find attached the receipt for your recent purchase at the grocery store. Visit now.
+legitimate,"Dear, Can you pick up some milk and eggs on your way back from work? Thank you."
+legitimate,"Hello, The meeting has been moved to room 302 due to technical issues in the main hall."
+legitimate,"Urgent: Hi Mom, just calling to say I love you and check how you are doing. Visit now."
+legitimate,Hi! Hey! Don't forget we have band practice tonight at 7. Visit now.
+legitimate,Hi! I'll be home in about 20 minutes. Please make sure the oven is preheated. Thank you.
+phishing,"Warning: Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security"
+phishing,"Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Visit now."
+phishing,"Dear, Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Click details."
+legitimate,Warning: I'll be home in about 20 minutes. Please make sure the oven is preheated. Code: 6965
+legitimate,Urgent: I'll be home in about 20 minutes. Please make sure the oven is preheated. Click details.
+phishing,Urgent: Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net
+legitimate,"Hey, Please find attached the receipt for your recent purchase at the grocery store. Thank you."
+phishing,"Dear, Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Visit now."
+legitimate,Urgent: Are you free for a quick call to review the design designs? Code: 9510
+phishing,Hi! Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net
+legitimate,"Dear, Hey, are we still meeting for lunch today at 12:30? Reply ASAP."
+legitimate,Warning: Your dentist appointment is confirmed for Tuesday at 10:00 AM. Thank you.
+legitimate,The meeting has been moved to room 302 due to technical issues in the main hall. Visit now.
+legitimate,"Hello, Hey! Don't forget we have band practice tonight at 7. Thank you."
+phishing,"Dear, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Reply ASAP."
+legitimate,"Dear, Can you please send me the report by the end of the day? Thanks. Thank you."
+phishing,"Hey, Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Click details."
+legitimate,"Hello, Please find attached the receipt for your recent purchase at the grocery store. Click details."
+phishing,"Urgent: Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Thank you."
+legitimate,"Urgent: Yes, I can help you move your couch this weekend. Just let me know the time. Visit now."
+legitimate,Urgent: Your dentist appointment is confirmed for Tuesday at 10:00 AM. Thank you.
+phishing,"Hey, Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Code: 3549"
+legitimate,"Hi! Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Reply ASAP."
+phishing,"Hello, Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com"
+legitimate,Warning: Just wanted to follow up on our discussion yesterday. Let me know when you're free. Visit now.
+legitimate,"Hey, Hey! Don't forget we have band practice tonight at 7. Visit now."
+phishing,Warning: Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Code: 3969
+legitimate,"Dear, Can you please send me the report by the end of the day? Thanks."
+phishing,"Warning: Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Code: 4233"
+phishing,"Hey, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Thank you."
+legitimate,"Hey, Hi Mom, just calling to say I love you and check how you are doing. Reply ASAP."
+phishing,"Hey, Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com"
+legitimate,"Hey, I'll be home in about 20 minutes. Please make sure the oven is preheated."
+legitimate,Hi! Please find attached the receipt for your recent purchase at the grocery store. Thank you.
+phishing,"Hi! Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Reply ASAP."
+legitimate,Hi! Hey! Don't forget we have band practice tonight at 7. Thank you.
+legitimate,"Hello, Please find attached the receipt for your recent purchase at the grocery store. Thank you."
+legitimate,"Hey, Are you free for a quick call to review the design designs? Click details."
+legitimate,Warning: Can you please send me the report by the end of the day? Thanks. Reply ASAP.
+phishing,"Dear, Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Reply ASAP."
+phishing,"Urgent: Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Click details."
+legitimate,"Hey, Let's reschedule the coffee chat to Friday if that works better for you."
+phishing,"Warning: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Reply ASAP."
+phishing,"Hello, Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Thank you."
+phishing,"Hello, Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Click details."
+legitimate,"Hey, Just wanted to follow up on our discussion yesterday. Let me know when you're free. Click details."
+legitimate,Hi! Let's reschedule the coffee chat to Friday if that works better for you. Thank you.
+legitimate,Urgent: Please find attached the receipt for your recent purchase at the grocery store. Reply ASAP.
+legitimate,"Hello, Thanks for the update. I'll review it and get back to you shortly."
+phishing,"Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Thank you."
+phishing,"Dear, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Code: 2870"
+legitimate,"Hey, Your subscription payment was processed successfully. Thank you for your business."
+phishing,"Dear, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Code: 1601"
+phishing,"Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Visit now."
+phishing,"Urgent: Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Thank you."
+phishing,"Hello, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Code: 2316"
+legitimate,"Hey, Your dentist appointment is confirmed for Tuesday at 10:00 AM."
+phishing,"Warning: Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php"
+legitimate,"Warning: The weather is lovely today, we should go for a walk in the evening. Thank you."
+legitimate,"Hey, Your subscription payment was processed successfully. Thank you for your business. Click details."
+phishing,Warning: Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Reply ASAP.
+legitimate,"Hey, Thanks for the update. I'll review it and get back to you shortly. Visit now."
+phishing,"Urgent: Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Click details."
+legitimate,Let's reschedule the coffee chat to Friday if that works better for you. Reply ASAP.
+legitimate,"Hi team, here is the agenda for tomorrow's weekly sync meeting. Reply ASAP."
+legitimate,"Hello, I'll be home in about 20 minutes. Please make sure the oven is preheated. Thank you."
+phishing,"Dear, Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Thank you."
+legitimate,Your subscription payment was processed successfully. Thank you for your business. Click details.
+legitimate,Hi! The meeting has been moved to room 302 due to technical issues in the main hall. Code: 9485
+legitimate,Warning: Your dentist appointment is confirmed for Tuesday at 10:00 AM. Code: 1973
+phishing,"Hey, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Thank you."
+legitimate,"Hey, Can you pick up some milk and eggs on your way back from work? Code: 3244"
+legitimate,Are you free for a quick call to review the design designs?
+phishing,Urgent: Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Reply ASAP.
+phishing,"Hello, Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com"
+phishing,"Hello, Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Visit now."
+phishing,"Urgent: Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Thank you."
+phishing,Urgent: Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Reply ASAP.
+legitimate,"Hello, Yes, I can help you move your couch this weekend. Just let me know the time. Thank you."
+phishing,"Hello, Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login"
+phishing,"Hey, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php"
+phishing,"Dear, Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Visit now."
+legitimate,"Urgent: Hey buddy, happy birthday! Hope you have an amazing day! Click details."
+legitimate,"Urgent: Hi team, here is the agenda for tomorrow's weekly sync meeting. Visit now."
+phishing,"Hello, Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Thank you."
+legitimate,Warning: The meeting has been moved to room 302 due to technical issues in the main hall. Visit now.
+legitimate,Urgent: Hey! Don't forget we have band practice tonight at 7. Thank you.
+phishing,"Hey, Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Thank you."
+legitimate,"Hi! Hey, are we still meeting for lunch today at 12:30? Visit now."
+phishing,"Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Code: 5234"
+phishing,"Hey, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Click details."
+legitimate,"Hi team, here is the agenda for tomorrow's weekly sync meeting. Reply ASAP."
+legitimate,Hi! Can you pick up some milk and eggs on your way back from work? Code: 8021
+phishing,"Hello, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Code: 6951"
+legitimate,"Hello, The weather is lovely today, we should go for a walk in the evening. Reply ASAP."
+legitimate,Hi! Let's reschedule the coffee chat to Friday if that works better for you.
+phishing,"Warning: Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security"
+phishing,Urgent: Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Click details.
+legitimate,"Dear, Are you free for a quick call to review the design designs?"
+phishing,"Hey, Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Reply ASAP."
+phishing,"Warning: Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com"
+phishing,"Warning: Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Visit now."
+phishing,"Dear, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Visit now."
+legitimate,Are you free for a quick call to review the design designs? Visit now.
+phishing,"Warning: Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Click details."
+legitimate,Urgent: Let's reschedule the coffee chat to Friday if that works better for you. Code: 2953
+phishing,Warning: Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Code: 5021
+phishing,"Dear, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Visit now."
+legitimate,Let's reschedule the coffee chat to Friday if that works better for you. Click details.
+legitimate,Hey! Don't forget we have band practice tonight at 7.
+legitimate,"Hello, Let's reschedule the coffee chat to Friday if that works better for you. Code: 8064"
+legitimate,"Hello, Can you pick up some milk and eggs on your way back from work?"
+legitimate,Your dentist appointment is confirmed for Tuesday at 10:00 AM. Reply ASAP.
+phishing,"Urgent: Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Thank you."
+phishing,Hi! Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Thank you.
+legitimate,Hi! Let's reschedule the coffee chat to Friday if that works better for you. Thank you.
+phishing,"Dear, Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Click details."
+phishing,"Dear, Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Visit now."
+phishing,Warning: Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Visit now.
+phishing,"Warning: Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php"
+legitimate,The meeting has been moved to room 302 due to technical issues in the main hall. Thank you.
+legitimate,The meeting has been moved to room 302 due to technical issues in the main hall. Code: 3061
+phishing,"Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Thank you."
+phishing,Warning: Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Code: 1238
+phishing,Warning: Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Reply ASAP.
+legitimate,"Dear, Your package has been delivered to your front porch. Have a great day! Reply ASAP."
+phishing,"Dear, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk"
+phishing,"Hey, Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Visit now."
+legitimate,"Dear, Your subscription payment was processed successfully. Thank you for your business. Visit now."
+legitimate,"Hello, Your package has been delivered to your front porch. Have a great day! Code: 3730"
+legitimate,Hi! Thanks for the update. I'll review it and get back to you shortly. Thank you.
+legitimate,"Warning: The weather is lovely today, we should go for a walk in the evening. Click details."
+phishing,"Hey, Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Thank you."
+phishing,"Dear, Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Click details."
+legitimate,"Hey, The meeting has been moved to room 302 due to technical issues in the main hall. Thank you."
+phishing,"Hey, Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Thank you."
+legitimate,"Dear, Yes, I can help you move your couch this weekend. Just let me know the time. Thank you."
+legitimate,Hi! Let's reschedule the coffee chat to Friday if that works better for you. Reply ASAP.
+legitimate,Urgent: Hey! Don't forget we have band practice tonight at 7.
+legitimate,"Dear, Hey buddy, happy birthday! Hope you have an amazing day! Reply ASAP."
+phishing,Hi! Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net
+phishing,"Hey, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Thank you."
+legitimate,Hi! Your subscription payment was processed successfully. Thank you for your business. Click details.
+phishing,Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Click details.
+phishing,"Hey, Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Click details."
+legitimate,"The weather is lovely today, we should go for a walk in the evening. Code: 7609"
+legitimate,Warning: Just wanted to follow up on our discussion yesterday. Let me know when you're free. Click details.
+legitimate,"Hello, Hey buddy, happy birthday! Hope you have an amazing day! Click details."
+phishing,"Hello, Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login"
+legitimate,"Urgent: The weather is lovely today, we should go for a walk in the evening."
+legitimate,Urgent: Your package has been delivered to your front porch. Have a great day! Click details.
+phishing,Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Click details.
+legitimate,"Hey, Your subscription payment was processed successfully. Thank you for your business."
+legitimate,"Hey, Let's reschedule the coffee chat to Friday if that works better for you. Visit now."
+phishing,"Dear, Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Visit now."
+phishing,Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Thank you.
+phishing,"Warning: Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Visit now."
+legitimate,Hi! Just wanted to follow up on our discussion yesterday. Let me know when you're free.
+legitimate,"Warning: The weather is lovely today, we should go for a walk in the evening."
+phishing,"Hey, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Visit now."
+phishing,Hi! Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Code: 9368
+legitimate,Warning: Your dentist appointment is confirmed for Tuesday at 10:00 AM. Click details.
+legitimate,"Urgent: Hey buddy, happy birthday! Hope you have an amazing day! Code: 8325"
+phishing,"Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Visit now."
+phishing,"Dear, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Code: 5442"
+legitimate,"The weather is lovely today, we should go for a walk in the evening. Thank you."
+legitimate,Urgent: Can you pick up some milk and eggs on your way back from work? Reply ASAP.
+phishing,"Urgent: Google Security: Critical Alert. Someone just signed into your account from a new Windows device. If this was not you, please change your password: http://google-security-team.gq/login Click details."
+phishing,"Hello, Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Click details."
+legitimate,"The weather is lovely today, we should go for a walk in the evening. Code: 1344"
+phishing,"Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Reply ASAP."
+phishing,"Dear, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Visit now."
+phishing,Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Thank you.
+legitimate,"The weather is lovely today, we should go for a walk in the evening. Visit now."
+legitimate,"Warning: Hey, are we still meeting for lunch today at 12:30?"
+legitimate,"Hello, Let's reschedule the coffee chat to Friday if that works better for you. Reply ASAP."
+legitimate,Hi! Just wanted to follow up on our discussion yesterday. Let me know when you're free. Reply ASAP.
+legitimate,"Hello, Thanks for the update. I'll review it and get back to you shortly. Reply ASAP."
+legitimate,Urgent: Hey! Don't forget we have band practice tonight at 7. Click details.
+phishing,"Dear, Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Click details."
+phishing,Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Code: 9886
+phishing,"Urgent: Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Click details."
+legitimate,"Hey, Can you pick up some milk and eggs on your way back from work? Reply ASAP."
+phishing,"Hey, Apple ID Security Alert. Your Apple ID has been suspended due to security reasons. To reactivate your account, please log in and verify your personal information: http://verify-appleid-support.xyz/auth Reply ASAP."
+phishing,"Hey, Coinbase Security Notification. A withdrawal of 0.45 BTC has been initiated. If you did not request this, cancel the transaction immediately: http://coinbase-transaction-cancel.com Reply ASAP."
+phishing,"Hi! Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Reply ASAP."
+legitimate,"Dear, Just wanted to follow up on our discussion yesterday. Let me know when you're free. Code: 4993"
+phishing,Warning: Urgent Action Required - Document Shared with You. Your manager shared an urgent invoice via OneDrive. Please log in to view the document: http://onedrive-secure-view.tk/login Code: 7050
+legitimate,"Hey, Are you free for a quick call to review the design designs? Reply ASAP."
+phishing,"Hey, Dear Customer, We detected an unauthorized login attempt to your PayPal account from an unrecognized device in Russia. If this was not you, please secure your account immediately by clicking the link below: http://secure-paypal-login.xyz/security Reply ASAP."
+phishing,Hi! Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info Reply ASAP.
+legitimate,"Hey, Just wanted to follow up on our discussion yesterday. Let me know when you're free. Thank you."
+legitimate,"Hey, Yes, I can help you move your couch this weekend. Just let me know the time. Thank you."
+phishing,"Hello, Dear Microsoft User, Your Office365 password will expire in 24 hours. Keep your current password by verifying your login details here: http://secure-signin-microsoft.info/login.php Reply ASAP."
+legitimate,"Urgent: Hey, are we still meeting for lunch today at 12:30? Reply ASAP."
+phishing,Hi! Chase Bank - Account Verification Required. We are updating our security systems. All customers are required to update their online banking credentials before 24 hours to prevent account lockout: http://chase-online-banking-update.net Visit now.
+phishing,"Hey, Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Click details."
+phishing,Urgent: Warning: IRS Tax Refund Notification. You are eligible for a tax refund of $432.10. Submit your claim form immediately to receive funds directly in your bank account: http://irs-refund-claims.info
+legitimate,"Dear, Hi, I noticed a typo on slide 5 of the presentation, can you fix it? Visit now."
+phishing,Facebook Security Department. Your account has been reported for violating terms of service. Verify your identity within 48 hours or your account will be permanently disabled: http://facebook-verify-account.tk Thank you.
+phishing,"Dear, Update Your Netflix Payment Details. We were unable to process your monthly subscription payment. To keep watching, please update your billing details: http://netflix-billing-update.top/login Click details."
+legitimate,Hi! Just wanted to follow up on our discussion yesterday. Let me know when you're free. Thank you.
