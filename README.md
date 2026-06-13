@@ -423,16 +423,6 @@ CyberSentinel AI aims to:
 - Provide explainable threat analysis
 - Demonstrate practical Machine Learning and Cybersecurity concepts
 
----
 
-# 👨‍💻 Author
-
-**Yadnyesh Ubhad**
-
-Cybersecurity Enthusiast | Full Stack Developer | Machine Learning Practitioner
-
----
-
-# 📜 License
 
 This project is licensed under the MIT License.
